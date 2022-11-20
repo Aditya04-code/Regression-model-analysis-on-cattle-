@@ -1,0 +1,730 @@
+GO,Function,Proteins,Gene Name,Ontology group,Count of protein,Number of proteins detected within the genome,GO frequency within the dataset (%),GO frequency within the genome (%),P-Value,P-Values_BH
+GO:0005634,nucleus,E1BNP7(Evidence code:IEA/Database source:InterPro:IPR004979)P51122(Evidence code:ISS/Database source:UniProtKB:P39687)Q8SQ24(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)Q5E9A1(Evidence code:ISS/Database source:UniProtKB:Q60817)A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694)Q29RY4(Evidence code:ISS/Database source:UniProtKB:Q9H777)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)E1BKG4(Evidence code:IBA/Database source:PANTHER:PTN000292173)E1BIL7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)A2VE56(Evidence code:IEA/Database source:InterPro:IPR004092)A6QNQ6(Evidence code:IEA/Database source:InterPro:IPR033594)Q0VD31(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens)P02316(Evidence code:IEA/Database source:InterPro:IPR000079)F1MIX6(Evidence code:IEA/Database source:UniProtKB:A0A096LNH6)Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543)E1BN90(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9UM07|ens)Q2TBR3(Evidence code:IEA/Database source:InterPro:IPR002164)Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)E1BMT1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)Q58DC8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)P62958(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)Q2M2T1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592)G3N0U2(Evidence code:IEA/Database source:InterPro:IPR004367)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR011940)Q3ZC66(Evidence code:IEA/Database source:UniProtKB:Q9P021|ens)Q58DR2(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)E1BDZ8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539)A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens)A7E3B5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0539), TFAP2D ANP32A MYOZ1 NACA USP10 ELAC1 HDGF PRKCD PDS5A ZKSCAN1 PHF20L1 RBBP8 FBXL4 NUFIP2 HMGN1 DOCK1 DNAJC2 ZKSCAN2 PADI4 SET ALYREF SIX3 ORC1 HINT1 HIST1H2BK NBN CCNB3 DMC1 CRIPT DNAJB12 EPC2 UBE3A ARID4B,CC,33,33 of 1172,26.83,2.82,1.298E-16,9.46E-14
+GO:0005737,cytoplasm,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)Q3ZC66(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)Q9TS87(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)Q0P5H6(Evidence code:IBA/Database source:PANTHER:PTN001871492)P51122(Evidence code:ISS/Database source:UniProtKB:P39687)E1BCN3(Evidence code:IEA/Database source:InterPro:IPR013530|I)P62958(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)G3N0A1(Evidence code:IEA/Database source:UniProtKB:Q96D09|ens)Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)A4IFN7(Evidence code:IBA/Database source:PANTHER:PTN000134256)F1MS60(Evidence code:IEA/Database source:UniProtKB:Q80YF9|ens)P62326(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens)A4IFD0(Evidence code:IEA/Database source:InterPro:IPR006267)E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000965417)Q5E9A1(Evidence code:ISS/Database source:UniProtKB:Q60817)F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)A4Z945(Evidence code:IBA/Database source:PANTHER:PTN000192346)E1BGS4(Evidence code:IEA/Database source:UniProtKB:P40222|ens)P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)E1BJZ0(Evidence code:IEA/Database source:GO:0039530)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694)F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens)A4IF78(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)P21752(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)A4FUG5(Evidence code:IEA/Database source:InterPro:IPR004148)A6QQV9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)Q08DY1(Evidence code:IEA/Database source:InterPro:IPR004148)Q0VD31(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)Q1RMH9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0963)E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens)G3X823(Evidence code:IEA/Database source:UniProtKB:Q99PN3|ens), ALYREF CRIPT TAGLN TBL2 ANP32A PADI4 HINT1 GPRASP2 ELAC1 UBE3A ARHGAP33 TMSB4 TDRKH Ak5 RIC8B NACA PLEK PRKCD ZBED8 TXLNA NOS3 IFIH1 HDGF USP10 NUFIP2 TNFAIP8 TMSB10 BIN2 AFAP1L1 BIN3 FBXL4 DNAJC2 CNTLN TRIM26,CC,34,34 of 1304,27.64,2.61,4.204E-16,1.533E-13
+GO:0005524,ATP binding,G5E626(Evidence code:IEA/Database source:InterPro:IPR003439|I)Q58DC8(Evidence code:IEA/Database source:InterPro:IPR003959)Q3MHK0(Evidence code:IEA/Database source:InterPro:IPR001752|I)A4IFD0(Evidence code:IEA/Database source:InterPro:IPR000850|I)F1MSA4(Evidence code:IEA/Database source:InterPro:IPR000330)A5D791(Evidence code:IEA/Database source:InterPro:IPR000719)A0JN97(Evidence code:IEA/Database source:InterPro:IPR000719|I)F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)F1MIP7(Evidence code:IEA/Database source:InterPro:IPR003439|I)F1MCG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0067)F6RF21(Evidence code:IEA/Database source:InterPro:IPR010935|I)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR011940|I)E1BJZ0(Evidence code:IEA/Database source:InterPro:IPR006935)E1BIJ5(Evidence code:IEA/Database source:UniProtKB:Q86UW6|ens), ABCC6 ORC1 KIF3A Ak5 RAD54B EIF2AK3 PRKCD ENPP1 ABCC2 DGKK SMCHD1 DMC1 IFIH1 N4BP2,MF,14,14 of 403,11.38,3.47,2.61E-09,6.342E-07
+GO:0010469,regulation of signaling receptor activity,Q3Y5Z3(Evidence code:IEA/Database source:GO:0005179)Q2KIE5(Evidence code:IEA/Database source:GO:0005125)O77482(Evidence code:IEA/Database source:GO:0005125)P19159(Evidence code:IEA/Database source:GO:0005179)Q9XSK7(Evidence code:IEA/Database source:GO:0008083), ADIPOQ CXCL2 IL1RN CSH2 HDGF,BP,5,5 of 22,4.07,22.73,6.637E-08,0.0000121
+GO:0003677,DNA binding,A4Z945(Evidence code:IBA/Database source:PANTHER:PTN000192346)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR011940|I)Q5E9A1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0238)F1MXF5(Evidence code:IEA/Database source:InterPro:IPR005539)Q2M2T1(Evidence code:IEA/Database source:InterPro:IPR000558|I)A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0238)P02316(Evidence code:IEA/Database source:UniProtKB-KW:KW-0238)E1BMT1(Evidence code:IEA/Database source:InterPro:IPR001356|I)Q58DC8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0238)Q1RMH9(Evidence code:IEA/Database source:InterPro:IPR009057)A7E3B5(Evidence code:IEA/Database source:InterPro:IPR001606|I)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0238)E1BJZ0(Evidence code:IEA/Database source:InterPro:IPR006935), ZBED8 DMC1 NACA AKAP9 HIST1H2BK RBBP8 HMGN1 SIX3 ORC1 DNAJC2 ARID4B HDGF IFIH1,MF,13,13 of 481,10.57,2.7,0.000000151,0.00002202
+GO:0016021,integral component of membrane,Q0VCH4(Evidence code:IEA/Database source:InterPro:IPR009729)F1N084(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q5EA03(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)F1MUU8(Evidence code:IEA/Database source:InterPro:IPR000276|I)F1MYL5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)F1ME33(Evidence code:IEA/Database source:InterPro:IPR000276|I)A8E4Q7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q1L1H6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)G5E5W4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)F1MNS5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)E1BMC6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q2TBU3(Evidence code:IEA/Database source:InterPro:IPR023601)Q58DR2(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)A7MAZ2(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q17QV5(Evidence code:IEA/Database source:InterPro:IPR029588)F1MIP7(Evidence code:IEA/Database source:InterPro:IPR005292|I)E1B7L5(Evidence code:IEA/Database source:InterPro:IPR000276|I)G5E626(Evidence code:IEA/Database source:InterPro:IPR005292|I)F1MUI1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)A2VDS6(Evidence code:IEA/Database source:InterPro:IPR000832|I), GAL3ST3 LOC530348 TMEM186 OR8D4 CNTNAP5 LOC788438 CLEC12A CD1B3 CNTNAP4 ENPP1 SLMAP GOSR1 DNAJB12 STX12 SERAC1 TRPM3 ABCC2 OR6C75 ABCC6 TDRKH VIPR1,CC,21,21 of 1299,17.07,1.62,2.135E-07,0.00002224
+GO:0005622,intracellular,Q56JZ1(Evidence code:IEA/Database source:InterPro:IPR001380|I)E1BIL7(Evidence code:IEA/Database source:InterPro:IPR001909|I)L8B5P3(Evidence code:IEA/Database source:GO:0035556)E1BN90(Evidence code:IEA/Database source:InterPro:IPR001909|I)G3X823(Evidence code:IEA/Database source:InterPro:IPR000315)A2VDX0(Evidence code:IEA/Database source:InterPro:IPR002108)F1MCG9(Evidence code:IEA/Database source:GO:0035556), RPL13 ZKSCAN1 ADCY10 ZKSCAN2 TRIM26 TWF2 DGKK,CC,7,7 of 95,5.69,7.37,1.862E-07,0.00002224
+GO:0005829,cytosol,E1BD35(Evidence code:IEA/Database source:UniProtKB:B7WPL0|ens)F1MIX6(Evidence code:IEA/Database source:UniProtKB:A0A096LNH6)Q29RY4(Evidence code:ISS/Database source:UniProtKB:Q9H777)Q56JY8(Evidence code:IEA/Database source:UniProtKB:P20290|ens)P62326(Evidence code:ISS/Database source:UniProtKB:P62328)A5PJS6(Evidence code:IEA/Database source:UniProtKB:Q14694|ens)Q3T186(Evidence code:IBA/Database source:PANTHER:PTN000232509)A4IFD0(Evidence code:IEA/Database source:UniProtKB:Q9Y6K8|ens)A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens)P62958(Evidence code:IEA/Database source:UniProtKB:P49773|ens)F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens)E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens)Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543)E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens)E1BIJ5(Evidence code:IEA/Database source:UniProtKB:F8VQG7|ens), RIC8B DOCK1 ELAC1 BTF3 TMSB4 USP10 RPIA Ak5 UBE3A HINT1 NUFIP2 PLEC DNAJC2 CNTLN N4BP2,CC,15,15 of 769,12.2,1.95,0.00000102,0.00009292
+GO:0005694,chromosome,A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0158)Q2M2T1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0158)F6RF21(Evidence code:IEA/Database source:InterPro:IPR010935|I)E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens)F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens), RBBP8 HIST1H2BK SMCHD1 SYCP1 DMC1,CC,5,5 of 47,4.07,10.64,0.000001967,0.0001593
+GO:0007608,sensory perception of smell,F1MUU8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0552)E1B7L5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0552)F1ME33(Evidence code:IEA/Database source:UniProtKB-KW:KW-0552), OR8D4 OR6C75 LOC788438,BP,3,3 of 5,2.44,60,0.000003158,0.0002302
+GO:0005576,extracellular region,Q2KIE5(Evidence code:IEA/Database source:InterPro:IPR001089|I)A5D7R1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)O77482(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)Q8SPF8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)Q05718(Evidence code:IEA/Database source:InterPro:IPR000867|I)P19159(Evidence code:IEA/Database source:InterPro:IPR001400|I)P55906(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)A4FUZ9(Evidence code:IEA/Database source:InterPro:IPR000074), CXCL2 TNFRSF11B IL1RN BPIFB1 ADIPOQ IGFBP6 CSH2 TGFBI APOA5,CC,9,9 of 300,7.32,3,0.00000486,0.0003221
+GO:0005654,nucleoplasm,F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens)E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens)E1BKG4(Evidence code:IEA/Database source:UniProtKB:G1UI16|ens)A4Z945(Evidence code:IEA/Database source:UniProtKB:Q8IZ13|ens)F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001489025)A6QNQ6(Evidence code:IEA/Database source:UniProtKB:A0A024RC34)F1N1Q9(Evidence code:IEA/Database source:UniProtKB:A0A090N8N7)A4IF78(Evidence code:IEA/Database source:UniProtKB:O95379|ens)A5PJS6(Evidence code:IEA/Database source:UniProtKB:Q14694|ens), NUFIP2 CNTLN PDS5A ZBED8 DMC1 RBBP8 PPP1R17 TNFAIP8 USP10,CC,9,9 of 315,7.32,2.86,0.000007091,0.0004308
+GO:0005886,plasma membrane,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)F1ME33(Evidence code:IEA/Database source:UniProtKB-KW:KW-1003)E1BKG4(Evidence code:IEA/Database source:UniProtKB:G1UI16|ens)F1MCG9(Evidence code:IEA/Database source:UniProtKB:Q5KSL6|ens)F1MS60(Evidence code:IEA/Database source:UniProtKB:Q80YF9|ens)P62958(Evidence code:IEA/Database source:UniProtKB:P49773|ens)G5E626(Evidence code:IBA/Database source:PANTHER:PTN002384279)P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-1003)Q1L1H6(Evidence code:IBA/Database source:PANTHER:PTN000422281)F1MUU8(Evidence code:IEA/Database source:UniProtKB-KW:KW-1003)E1B7L5(Evidence code:IEA/Database source:UniProtKB-KW:KW-1003)E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000276703), ENPP1 LOC788438 PDS5A DGKK ARHGAP33 HINT1 ABCC6 NOS3 CD1B3 OR8D4 OR6C75 RIC8B,CC,12,12 of 630,9.76,1.9,0.00001364,0.0006669
+GO:0003779,actin binding,P62326(Evidence code:IEA/Database source:UniProtKB-KW:KW-0009)Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135)P21752(Evidence code:IEA/Database source:UniProtKB-KW:KW-0009)E1BF59(Evidence code:IEA/Database source:UniProtKB-KW:KW-0009)Q9TS87(Evidence code:IEA/Database source:UniProtKB-KW:KW-0009)A2VDX0(Evidence code:IEA/Database source:InterPro:IPR002108|I), TMSB4 MYOZ1 TMSB10 PLEC TAGLN TWF2,MF,6,6 of 124,4.88,4.84,0.00001372,0.0006669
+GO:0006334,nucleosome assembly,E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9Z183|ens)Q2M2T1(Evidence code:IBA/Database source:PANTHER:PTN000603808)Q2TBR3(Evidence code:IEA/Database source:InterPro:IPR002164)P51122(Evidence code:IBA/Database source:PANTHER:PTN000146837), PADI4 HIST1H2BK SET ANP32A,BP,4,4 of 33,3.25,12.12,0.00001334,0.0006669
+GO:0043547,positive regulation of GTPase activity,F1MIX6(Evidence code:IEA/Database source:GO:0005096)F1MS60(Evidence code:IEA/Database source:GO:0005096)E1BD35(Evidence code:IEA/Database source:GO:0005096)Q5E9C0(Evidence code:IEA/Database source:UniProtKB:Q15404|ens), DOCK1 ARHGAP33 RIC8B RSU1,BP,4,4 of 36,3.25,11.11,0.00001828,0.000833
+GO:0005801,cis-Golgi network,Q2TBU3(Evidence code:IEA/Database source:InterPro:IPR023601)Q3T086(Evidence code:IBA/Database source:PANTHER:PTN000302156)F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens), GOSR1 TRAPPC6A AKAP9,CC,3,3 of 12,2.44,25,0.00002514,0.001078
+GO:0016020,membrane,A7MAZ2(Evidence code:IEA/Database source:InterPro:IPR006011|I)P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q5EA03(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q2TBU3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)A8E4Q7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)A2VDS6(Evidence code:IEA/Database source:InterPro:IPR001571|I)Q58DR2(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)E1BMC6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1MUI1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1MNS5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1N084(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1MYL5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)E1B7L5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q0VCH4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1ME33(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1MUU8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)G5E5W4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)F1MIP7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q1L1H6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)G5E626(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472), STX12 NOS3 TMEM186 GOSR1 CLEC12A VIPR1 DNAJB12 SLMAP TDRKH ENPP1 LOC530348 SERAC1 CNTNAP5 OR6C75 GAL3ST3 LOC788438 OR8D4 CNTNAP4 ABCC2 CD1B3 ABCC6,CC,21,21 of 1837,17.07,1.14,0.00003384,0.00137
+GO:0005783,endoplasmic reticulum,Q3T086(Evidence code:IEA/Database source:UniProtKB-KW:KW-0256)P51122(Evidence code:ISS/Database source:UniProtKB:P39687)Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0256)Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994)Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2)Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens), TRAPPC6A ANP32A SERAC1 casq1 ADIPOQ DNAJB12 TBL2,CC,7,7 of 220,5.69,3.18,0.00003657,0.001403
+GO:0006915,apoptotic process,P62958(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053)A5D7R1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053)A4IF78(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053)Q5EAE6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053)Q3SZT9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0053), HINT1 PRKCD TNFRSF11B TNFAIP8 DAP CYCT,BP,6,6 of 151,4.88,3.97,0.00003965,0.001445
+GO:0020037,heme binding,P02192(Evidence code:IEA/Database source:InterPro:IPR000971|I)Q08DD0(Evidence code:IEA/Database source:InterPro:IPR001128|I)P29473(Evidence code:IEA/Database source:InterPro:IPR012144)Q3SZT9(Evidence code:IEA/Database source:InterPro:IPR002327|I), MB CYP46A1 NOS3 CYCT,MF,4,4 of 49,3.25,8.16,0.00005623,0.001952
+GO:0005615,extracellular space,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens)A5D7R1(Evidence code:IEA/Database source:UniProtKB:O00300|ens)P62326(Evidence code:IDA/Database source:)Q2KIE5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0202)O77482(Evidence code:IEA/Database source:InterPro:IPR000975|I)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848)F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)Q05718(Evidence code:IBA/Database source:PANTHER:PTN000167605)Q8SPF8(Evidence code:IEA/Database source:InterPro:IPR021193), APOA5 TNFRSF11B TMSB4 CXCL2 IL1RN ADIPOQ ENPP1 IGFBP6 BPIFB1,CC,9,9 of 426,7.32,2.11,0.00006935,0.002298
+GO:0005549,odorant binding,F1MUU8(Evidence code:IBA/Database source:PANTHER:PTN001241937)F1ME33(Evidence code:IBA/Database source:PANTHER:PTN001241937), OR8D4 LOC788438,MF,2,2 of 2,1.63,100,0.00008795,0.002788
+GO:0006355,"regulation of transcription, DNA-templated",E1BDZ8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0805)Q1RMH9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0805)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0805)E1BMT1(Evidence code:IEA/Database source:InterPro:IPR032949)A2VE56(Evidence code:IEA/Database source:InterPro:IPR004092)P62958(Evidence code:ISS/Database source:UniProtKB:P49773)E1BN90(Evidence code:IEA/Database source:InterPro:IPR001909|I)E1BNP7(Evidence code:IEA/Database source:InterPro:IPR004979)P51122(Evidence code:IEA/Database source:UniProtKB-KW:KW-0805)E1BIL7(Evidence code:IEA/Database source:InterPro:IPR001909|I)A7E3B5(Evidence code:IEA/Database source:InterPro:IPR028853), EPC2 DNAJC2 HDGF SIX3 PHF20L1 HINT1 ZKSCAN2 TFAP2D ANP32A ZKSCAN1 ARID4B,BP,11,11 of 662,8.94,1.66,0.00009699,0.002946
+GO:0007129,synapsis,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens)F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens), SYCP1 DMC1,BP,2,2 of 3,1.63,66.67,0.0001462,0.004263
+GO:0042803,protein homodimerization activity,Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB:Q15848|ens)F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)F6RF21(Evidence code:IEA/Database source:UniProtKB:Q6P5D8|ens)A6QQK5(Evidence code:IEA/Database source:UniProtKB:Q8IVH4|ens)E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9UM07|ens)F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens), ADIPOQ ENPP1 SMCHD1 MMAA PADI4 PLEK,MF,6,6 of 210,4.88,2.86,0.0002262,0.005498
+GO:0007131,reciprocal meiotic recombination,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR011940), SYCP1 DMC1,BP,2,2 of 4,1.63,50,0.0002187,0.005498
+GO:0031953,negative regulation of protein autophosphorylation,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), ENPP1 ADIPOQ,BP,2,2 of 4,1.63,50,0.0002187,0.005498
+GO:0000794,condensed nuclear chromosome,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens)F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens), SYCP1 DMC1,CC,2,2 of 4,1.63,50,0.0002187,0.005498
+GO:0034115,negative regulation of heterotypic cell-cell adhesion,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848)O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens), ADIPOQ IL1RN,BP,2,2 of 4,1.63,50,0.0002187,0.005498
+GO:0006281,DNA repair,Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR020588)A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0234)A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0234)E1BKG4(Evidence code:IBA/Database source:PANTHER:PTN000292173), NBN DMC1 RBBP8 USP10 PDS5A,BP,5,5 of 136,4.07,3.68,0.0002443,0.005745
+GO:0006351,"transcription, DNA-templated",Q1RMH9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)E1BIL7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)E1BN90(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)P51122(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)Q5E9A1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)E1BDZ8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804)P62958(Evidence code:IEA/Database source:UniProtKB-KW:KW-0804), DNAJC2 ZKSCAN1 ZKSCAN2 ANP32A NACA HDGF EPC2 HINT1,BP,8,8 of 435,6.5,1.84,0.0004169,0.009497
+GO:0000149,SNARE binding,Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329)A7MAZ2(Evidence code:IBA/Database source:PANTHER:PTN000461349)E1B9K5(Evidence code:IBA/Database source:PANTHER:PTN000480155), GOSR1 STX12 EXOC3L4,MF,3,3 of 35,2.44,8.57,0.0004358,0.009627
+GO:0000166,nucleotide binding,Q3MHK0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)A4IFD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)P62958(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)F1MCG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)G5E626(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)F1MIP7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)Q58DC8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547)F1N1D2(Evidence code:IEA/Database source:InterPro:IPR010995)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0547), KIF3A Ak5 HINT1 DGKK ABCC6 PRKCD ABCC2 ORC1 DMC1 HDGF,MF,10,10 of 677,8.13,1.48,0.000474,0.01016
+GO:0003785,actin monomer binding,P21752(Evidence code:IEA/Database source:InterPro:IPR001152)P62326(Evidence code:IEA/Database source:InterPro:IPR001152), TMSB10 TMSB4,MF,2,2 of 7,1.63,28.57,0.0005209,0.01085
+GO:0005856,cytoskeleton,P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0206)P62326(Evidence code:IEA/Database source:UniProtKB-KW:KW-0206)A6QQV9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0206)E1BF59(Evidence code:IEA/Database source:InterPro:IPR001101|I)P21752(Evidence code:IEA/Database source:UniProtKB-KW:KW-0206), NOS3 TMSB4 AFAP1L1 PLEC TMSB10,CC,5,5 of 165,4.07,3.03,0.0005734,0.01161
+GO:0007186,G-protein coupled receptor signaling pathway,E1B7L5(Evidence code:IEA/Database source:InterPro:IPR000276|I)A2VDS6(Evidence code:IEA/Database source:InterPro:IPR000832|I)F1ME33(Evidence code:IEA/Database source:InterPro:IPR000276|I)F1MUU8(Evidence code:IEA/Database source:InterPro:IPR000276|I)E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000965417), OR6C75 VIPR1 LOC788438 OR8D4 RIC8B,BP,5,5 of 168,4.07,2.98,0.0006203,0.01214
+GO:2000279,negative regulation of DNA biosynthetic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848)Q1RMH9(Evidence code:IEA/Database source:UniProtKB:P54103|ens), ADIPOQ DNAJC2,BP,2,2 of 8,1.63,25,0.0006494,0.01214
+GO:0045776,negative regulation of blood pressure,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848)P29473(Evidence code:IBA/Database source:PANTHER:PTN000453988), ADIPOQ NOS3,BP,2,2 of 8,1.63,25,0.0006494,0.01214
+GO:0046872,metal ion binding,P02192(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)Q05JF3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)P19159(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)Q3SZT9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)G3X823(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)E1BIL7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001604|I)E1BJZ0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)Q08DD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)E1BN90(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479), MB casq1 CSH2 CYCT PRKCD TRIM26 NOS3 ZKSCAN1 ENPP1 IFIH1 CYP46A1 ELAC1 ZKSCAN2,MF,13,13 of 1125,10.57,1.16,0.000752,0.01371
+GO:0033344,cholesterol efflux,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006)A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens), APOA5 STX12,BP,2,2 of 9,1.63,22.22,0.0007917,0.01408
+GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",E1BN90(Evidence code:IBA/Database source:PANTHER:PTN000003381)E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens)A4Z945(Evidence code:IBA/Database source:PANTHER:PTN000192346)E1BMT1(Evidence code:IEA/Database source:InterPro:IPR032949), ZKSCAN2 TFAP2D ZBED8 SIX3,MF,4,4 of 107,3.25,3.74,0.0009596,0.0159
+GO:0019901,protein kinase binding,E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens)Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens)G3N0U2(Evidence code:IEA/Database source:InterPro:IPR015452)F1MS60(Evidence code:IEA/Database source:UniProtKB:O14559|ens), CNTLN TBL2 CCNB3 ARHGAP33,MF,4,4 of 106,3.25,3.77,0.0009279,0.0159
+GO:0030968,endoplasmic reticulum unfolded protein response,Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens)A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5), TBL2 EIF2AK3,BP,2,2 of 10,1.63,20,0.0009476,0.0159
+GO:0004930,G-protein coupled receptor activity,F1MUU8(Evidence code:IEA/Database source:InterPro:IPR000276)E1B7L5(Evidence code:IEA/Database source:InterPro:IPR000276)F1ME33(Evidence code:IEA/Database source:InterPro:IPR000276)A2VDS6(Evidence code:IEA/Database source:InterPro:IPR000832|I), OR8D4 OR6C75 LOC788438 VIPR1,MF,4,4 of 110,3.25,3.64,0.001059,0.01696
+GO:0050873,brown fat cell differentiation,P02192(Evidence code:IEA/Database source:UniProtKB:P04247|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994), MB ADIPOQ,BP,2,2 of 11,1.63,18.18,0.001117,0.01696
+GO:0042149,cellular response to glucose starvation,Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens)A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens), TBL2 EIF2AK3,BP,2,2 of 11,1.63,18.18,0.001117,0.01696
+GO:0045599,negative regulation of fat cell differentiation,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), ENPP1 ADIPOQ,BP,2,2 of 11,1.63,18.18,0.001117,0.01696
+GO:0090305,nucleic acid phosphodiester bond hydrolysis,E1BIJ5(Evidence code:IEA/Database source:GO:0004519)F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)A6QNQ6(Evidence code:IEA/Database source:GO:0004518), N4BP2 ENPP1 RBBP8,BP,3,3 of 51,2.44,5.88,0.001223,0.01819
+GO:0043124,negative regulation of I-kappaB kinase/NF-kappaB signaling,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), USP10 ADIPOQ,BP,2,2 of 12,1.63,16.67,0.0013,0.01822
+GO:0001541,ovarian follicle development,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens)F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens), UBE3A DMC1,BP,2,2 of 12,1.63,16.67,0.0013,0.01822
+GO:0034198,cellular response to amino acid starvation,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens)Q5EAE6(Evidence code:IBA/Database source:PANTHER:PTN000323543), EIF2AK3 DAP,BP,2,2 of 12,1.63,16.67,0.0013,0.01822
+GO:0005794,Golgi apparatus,Q2TBU3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0333)Q3T086(Evidence code:IEA/Database source:UniProtKB-KW:KW-0333)P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0333)F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens)Q0VCH4(Evidence code:IEA/Database source:InterPro:IPR009729), GOSR1 TRAPPC6A NOS3 AKAP9 GAL3ST3,CC,5,5 of 202,4.07,2.48,0.001376,0.01857
+GO:0004519,endonuclease activity,E1BIJ5(Evidence code:IEA/Database source:UniProtKB:Q86UW6|ens)A6QNQ6(Evidence code:IEA/Database source:InterPro:IPR033594)Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0255), N4BP2 RBBP8 ELAC1,MF,3,3 of 53,2.44,5.66,0.001359,0.01857
+GO:0005096,GTPase activator activity,F1MIX6(Evidence code:IEA/Database source:InterPro:IPR030717)E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000965417)F1MS60(Evidence code:IEA/Database source:InterPro:IPR035510), DOCK1 RIC8B ARHGAP33,MF,3,3 of 54,2.44,5.56,0.00143,0.01896
+GO:0008270,zinc ion binding,Q1LZB8(Evidence code:IEA/Database source:InterPro:IPR006572)E1BJZ0(Evidence code:IEA/Database source:UniRule:UR000401119)E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens)G3X823(Evidence code:IEA/Database source:InterPro:IPR000315)F1MTJ4(Evidence code:IEA/Database source:InterPro:IPR001878|I), DBF4 IFIH1 TET2 TRIM26 PEG10,MF,5,5 of 207,4.07,2.42,0.001527,0.01988
+GO:0032869,cellular response to insulin stimulus,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994), ENPP1 ADIPOQ,BP,2,2 of 16,1.63,12.5,0.002163,0.02766
+GO:0003713,transcription coactivator activity,Q5E9A1(Evidence code:ISS/Database source:UniProtKB:Q60817)A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens)E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens), NACA UBE3A SIX3,MF,3,3 of 65,2.44,4.62,0.002373,0.02982
+GO:0003676,nucleic acid binding,E1BN90(Evidence code:IEA/Database source:InterPro:IPR001909|I)Q3T0I4(Evidence code:IEA/Database source:InterPro:IPR000504|I)E1BIL7(Evidence code:IEA/Database source:InterPro:IPR001909|I)F1MTJ4(Evidence code:IEA/Database source:InterPro:IPR001878|I)F1MUI1(Evidence code:IEA/Database source:InterPro:IPR004087)Q3MHV8(Evidence code:IEA/Database source:InterPro:IPR000504|I)F1MY06(Evidence code:IEA/Database source:InterPro:IPR035979)F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001604|I)Q2KIJ3(Evidence code:IEA/Database source:InterPro:IPR000504|I)Q1LZB8(Evidence code:IEA/Database source:InterPro:IPR006572), ZKSCAN2 ALYREF ZKSCAN1 PEG10 TDRKH RBM15B TNRC6B ENPP1 NOL8 DBF4,MF,10,10 of 989,8.13,1.01,0.006739,0.03863
+GO:0042802,identical protein binding,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens)A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens)E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens)Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens)Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB:Q60994|ens)A6QQK5(Evidence code:IEA/Database source:UniProtKB:Q8IVH4|ens), RBBP8 EIF2AK3 IFIH1 casq1 ADIPOQ MMAA,MF,6,6 of 379,4.88,1.58,0.004258,0.03863
+GO:0005739,mitochondrion,Q0VD31(Evidence code:IEA/Database source:UniProtKB-KW:KW-0496)Q5EA03(Evidence code:IEA/Database source:UniProtKB:Q96B77|ens)Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0496)F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens)Q3SZT9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0496)Q58CR1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0496), FBXL4 TMEM186 SERAC1 TDRKH CYCT MTFR2,CC,6,6 of 380,4.88,1.58,0.004311,0.03863
+GO:0003700,DNA-binding transcription factor activity,E1BN90(Evidence code:IEA/Database source:InterPro:IPR003309)E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens)E1BNP7(Evidence code:IEA/Database source:InterPro:IPR004979)E1BIL7(Evidence code:IEA/Database source:InterPro:IPR003309), ZKSCAN2 SIX3 TFAP2D ZKSCAN1,MF,4,4 of 187,3.25,2.14,0.006725,0.03863
+GO:0016310,phosphorylation,E1BIJ5(Evidence code:IEA/Database source:GO:0046404)F1MCG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0418)A4IFD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0418)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0418), N4BP2 DGKK Ak5 PRKCD,BP,4,4 of 164,3.25,2.44,0.004301,0.03863
+GO:0055114,oxidation-reduction process,P29473(Evidence code:IEA/Database source:InterPro:IPR001094|I)E1BD99(Evidence code:IEA/Database source:GO:0070579)Q3SZT9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0249)Q08DD0(Evidence code:IEA/Database source:InterPro:IPR001128|I), NOS3 TET2 CYCT CYP46A1,BP,4,4 of 162,3.25,2.47,0.004124,0.03863
+GO:0045944,positive regulation of transcription by RNA polymerase II,E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens)A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens)E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens)E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens), TFAP2D UBE3A TET2 SIX3,BP,4,4 of 177,3.25,2.26,0.005583,0.03863
+GO:0006974,cellular response to DNA damage stimulus,A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0227)Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592)F1MSA4(Evidence code:IEA/Database source:UniProtKB:Q6PFE3|ens)A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694), RBBP8 NBN RAD54B USP10,BP,4,4 of 188,3.25,2.13,0.006847,0.03863
+GO:0007283,spermatogenesis,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens)F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens)F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens), SYCP1 TDRKH DMC1,BP,3,3 of 72,2.44,4.17,0.003133,0.03863
+GO:0009986,cell surface,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848)F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens)F1MIP7(Evidence code:IEA/Database source:UniProtKB:Q92887|ens), ADIPOQ ENPP1 ABCC2,CC,3,3 of 94,2.44,3.19,0.006419,0.03863
+GO:0005813,centrosome,E1BD35(Evidence code:IEA/Database source:UniProtKB:B7WPL0|ens)F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens)E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens), RIC8B AKAP9 CNTLN,CC,3,3 of 99,2.44,3.03,0.007369,0.03863
+GO:0015629,actin cytoskeleton,Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135)F1MS60(Evidence code:IBA/Database source:PANTHER:PTN000404766), MYOZ1 ARHGAP33,CC,2,2 of 23,1.63,8.7,0.004165,0.03863
+GO:0000724,double-strand break repair via homologous recombination,F1MSA4(Evidence code:IEA/Database source:UniProtKB:Q6PFE3|ens)A6QNQ6(Evidence code:IEA/Database source:InterPro:IPR033594), RAD54B RBBP8,BP,2,2 of 20,1.63,10,0.003232,0.03863
+GO:0006906,vesicle fusion,A7MAZ2(Evidence code:IBA/Database source:PANTHER:PTN000461349)Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329), STX12 GOSR1,BP,2,2 of 31,1.63,6.45,0.007182,0.03863
+GO:0044325,ion channel binding,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens)A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694), AKAP9 USP10,MF,2,2 of 24,1.63,8.33,0.004501,0.03863
+GO:0006888,ER to Golgi vesicle-mediated transport,Q3T086(Evidence code:IBA/Database source:PANTHER:PTN000302156)Q2TBU3(Evidence code:IEA/Database source:InterPro:IPR023601), TRAPPC6A GOSR1,BP,2,2 of 32,1.63,6.25,0.007611,0.03863
+GO:0050728,negative regulation of inflammatory response,P62326(Evidence code:IMP/Database source:)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994), TMSB4 ADIPOQ,BP,2,2 of 27,1.63,7.41,0.005579,0.03863
+GO:0031201,SNARE complex,A7MAZ2(Evidence code:ISS/Database source:UniProtKB:Q86Y82)Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329), STX12 GOSR1,CC,2,2 of 27,1.63,7.41,0.005579,0.03863
+GO:0002244,hematopoietic progenitor cell differentiation,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens)F1MIX6(Evidence code:IEA/Database source:UniProtKB:Q8BUR4|ens), PLEK DOCK1,BP,2,2 of 21,1.63,9.52,0.003531,0.03863
+GO:0046488,phosphatidylinositol metabolic process,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens)E1BAU6(Evidence code:IEA/Database source:UniProtKB:Q9JII1|ens), PLEK INPP5E,BP,2,2 of 29,1.63,6.9,0.006357,0.03863
+GO:0001503,ossification,A0A0M3T9B6(Evidence code:IEA/Database source:InterPro:IPR002038|I)A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5), OPN EIF2AK3,BP,2,2 of 30,1.63,6.67,0.006764,0.03863
+GO:0005484,SNAP receptor activity,Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329)A7MAZ2(Evidence code:IEA/Database source:InterPro:IPR006012), GOSR1 STX12,MF,2,2 of 23,1.63,8.7,0.004165,0.03863
+GO:0050427,3-phosphoadenosine 5-phosphosulfate metabolic process,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0009052,"pentose-phosphate shunt, non-oxidative branch",Q3T186(Evidence code:IEA/Database source:InterPro:IPR004788|I),RPIA,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0042781,3-tRNA processing endoribonuclease activity,Q29RY4(Evidence code:IBA/Database source:PANTHER:PTN000284960),ELAC1,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000590,negative regulation of metanephric mesenchymal cell migration,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0030853,negative regulation of granulocyte differentiation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0043403,skeletal muscle tissue regeneration,Q08DY1(Evidence code:IEA/Database source:UniProtKB:Q9JI08|ens),BIN3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0060235,lens induction in camera-type eye,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0048209,"regulation of vesicle targeting, to, from or within Golgi",Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329),GOSR1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000467,positive regulation of glycogen (starch) synthase activity,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q8K3R4),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0070560,protein secretion by platelet,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:Q9JHK5|ens),PLEK,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0051026,chiasma assembly,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens),SYCP1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0034618,arginine binding,E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9UM07|ens),PADI4,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0060024,rhythmic synaptic transmission,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0000711,meiotic DNA repair synthesis,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens),SYCP1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0005854,nascent polypeptide-associated complex,Q5E9A1(Evidence code:IEA/Database source:InterPro:IPR016641),NACA,CC,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1904706,negative regulation of vascular smooth muscle cell proliferation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1900825,regulation of membrane depolarization during cardiac muscle cell action potential,E1BMC6(Evidence code:IEA/Database source:UniProtKB:Q14BN4|ens),SLMAP,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1903232,melanosome assembly,Q3T086(Evidence code:IEA/Database source:UniProtKB:Q78XR0|ens),TRAPPC6A,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0060736,prostate gland growth,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens),UBE3A,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000584,negative regulation of platelet-derived growth factor receptor-alpha signaling pathway,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0021797,forebrain anterior/posterior pattern specification,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0046855,inositol phosphate dephosphorylation,E1BAU6(Evidence code:IEA/Database source:UniProtKB:Q9JII1|ens),INPP5E,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0098909,regulation of cardiac muscle cell action potential involved in regulation of contraction,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0021798,forebrain dorsal/ventral pattern formation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:O95343|ens),SIX3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0045352,interleukin-1 type I receptor antagonist activity,O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens),IL1RN,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0003404,optic vesicle morphogenesis,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0031581,hemidesmosome assembly,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens),PLEC,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0071723,lipopeptide binding,Q1L1H6(Evidence code:IBA/Database source:PANTHER:PTN000422284),CD1B3,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0042489,negative regulation of odontogenesis of dentin-containing tooth,A5D7R1(Evidence code:IEA/Database source:UniProtKB:O08712|ens),TNFRSF11B,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0004143,diacylglycerol kinase activity,F1MCG9(Evidence code:IEA/Database source:InterPro:IPR000756|I),DGKK,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0004751,ribose-5-phosphate isomerase activity,Q3T186(Evidence code:IEA/Database source:InterPro:IPR004788|I),RPIA,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0000801,central element,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens),SYCP1,CC,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0005151,"interleukin-1, type II receptor binding",O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens),IL1RN,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0043584,nose development,F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0031018,endocrine pancreas development,A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5),EIF2AK3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0051661,maintenance of centrosome location,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0033691,sialic acid binding,Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB:Q15848|ens),ADIPOQ,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0046404,ATP-dependent polydeoxyribonucleotide 5-hydroxyl-kinase activity,E1BIJ5(Evidence code:IEA/Database source:UniProtKB:Q86UW6|ens),N4BP2,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0070994,detection of oxidative stress,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0010572,positive regulation of platelet activation,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:Q9JHK5|ens),PLEK,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0001556,oocyte maturation,F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens),DMC1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0005152,interleukin-1 receptor antagonist activity,O77482(Evidence code:IEA/Database source:InterPro:IPR039348),IL1RN,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0004999,vasoactive intestinal polypeptide receptor activity,A2VDS6(Evidence code:IEA/Database source:InterPro:IPR001571|I),VIPR1,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0045715,negative regulation of low-density lipoprotein particle receptor biosynthetic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0009048,dosage compensation by inactivation of X chromosome,F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0004439,"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",E1BAU6(Evidence code:IEA/Database source:UniProtKB:Q9JII1|ens),INPP5E,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0090024,negative regulation of neutrophil chemotaxis,P62326(Evidence code:IMP/Database source:),TMSB4,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0030056,hemidesmosome,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens),PLEC,CC,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0050847,progesterone receptor signaling pathway,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0045650,negative regulation of macrophage differentiation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000042,negative regulation of double-strand break repair via homologous recombination,F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0060230,lipoprotein lipase activator activity,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0006014,D-ribose metabolic process,Q3T186(Evidence code:IBA/Database source:PANTHER:PTN000232507),RPIA,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0021978,telencephalon regionalization,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1903358,regulation of Golgi organization,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1901341,positive regulation of store-operated calcium channel activity,Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens),casq1,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0045353,interleukin-1 type II receptor antagonist activity,O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens),IL1RN,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:1902897,regulation of postsynaptic density protein 95 clustering,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0005150,"interleukin-1, type I receptor binding",O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens),IL1RN,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000478,positive regulation of metanephric glomerular visceral epithelial cell development,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0061649,ubiquitin modification-dependent histone binding,Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543),DNAJC2,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:2000534,positive regulation of renal albumin absorption,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0030870,Mre11 complex,Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592),NBN,CC,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0003951,NAD+ kinase activity,F1MCG9(Evidence code:IEA/Database source:InterPro:IPR017438),DGKK,MF,1,1 of 1,0.81,100,0.007632,0.03863
+GO:0006260,DNA replication,Q1RMH9(Evidence code:IEA/Database source:UniProtKB:P54103|ens)Q58DC8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0235), DNAJC2 ORC1,BP,2,2 of 34,1.63,5.88,0.008503,0.04275
+GO:0006955,immune response,Q2KIE5(Evidence code:IEA/Database source:InterPro:IPR001089|I)A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849)O77482(Evidence code:IEA/Database source:InterPro:IPR000975)F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001212|I), CXCL2 TNFRSF11B IL1RN ENPP1,BP,4,4 of 214,3.25,1.87,0.01055,0.04316
+GO:0016887,ATPase activity,F1MIP7(Evidence code:IEA/Database source:InterPro:IPR003439|I)G5E626(Evidence code:IEA/Database source:InterPro:IPR003439|I)F6RF21(Evidence code:IEA/Database source:UniProtKB:Q6P5D8|ens), ABCC2 ABCC6 SMCHD1,MF,3,3 of 110,2.44,2.73,0.009736,0.04316
+GO:0008152,metabolic process,F1MNS5(Evidence code:IEA/Database source:InterPro:IPR017849|I)F1MCG9(Evidence code:IEA/Database source:InterPro:IPR017438), ENPP1 DGKK,BP,2,2 of 2613,1.63,0.08,0.009108,0.04316
+GO:0005758,mitochondrial intermembrane space,Q0VD31(Evidence code:ISS/Database source:UniProtKB:Q9UKA2)Q3SZT9(Evidence code:IEA/Database source:UniProtKB-SubCell:SL), FBXL4 CYCT,CC,2,2 of 35,1.63,5.71,0.008966,0.04316
+GO:0006302,double-strand break repair,F6RF21(Evidence code:IEA/Database source:InterPro:IPR038892)Q3SZL4(Evidence code:ISS/Database source:UniProtKB:O60934), SMCHD1 NBN,BP,2,2 of 39,1.63,5.13,0.01093,0.04316
+GO:0005085,guanyl-nucleotide exchange factor activity,E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000965417)F1MIX6(Evidence code:IEA/Database source:InterPro:IPR026791|I), RIC8B DOCK1,MF,2,2 of 36,1.63,5.56,0.00944,0.04316
+GO:0001701,in utero embryonic development,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:Q9R207)Q56JY8(Evidence code:IEA/Database source:UniProtKB:Q64152|ens), NBN BTF3,BP,2,2 of 36,1.63,5.56,0.00944,0.04316
+GO:0042393,histone binding,P51122(Evidence code:IBA/Database source:PANTHER:PTN000146830)Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543), ANP32A DNAJC2,MF,2,2 of 39,1.63,5.13,0.01093,0.04316
+GO:0030198,extracellular matrix organization,A5D7R1(Evidence code:IEA/Database source:UniProtKB:O08712|ens)Q2TBM9(Evidence code:IEA/Database source:UniProtKB:Q3U213|ens), TNFRSF11B SERAC1,BP,2,2 of 39,1.63,5.13,0.01093,0.04316
+GO:0010212,response to ionizing radiation,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033)F1MSA4(Evidence code:IEA/Database source:UniProtKB:Q6PFE3|ens), DMC1 RAD54B,BP,2,2 of 35,1.63,5.71,0.008966,0.04316
+GO:0042626,"ATPase activity, coupled to transmembrane movement of substances",F1MIP7(Evidence code:IEA/Database source:InterPro:IPR011527|I)G5E626(Evidence code:IEA/Database source:InterPro:IPR011527|I), ABCC2 ABCC6,MF,2,2 of 35,1.63,5.71,0.008966,0.04316
+GO:0005797,Golgi medial cisterna,Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329),GOSR1,CC,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0070493,thrombin-activated receptor signaling pathway,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0010875,positive regulation of cholesterol efflux,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0001835,blastocyst hatching,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q80YR6|ens),RBBP8,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0030506,ankyrin binding,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens),PLEC,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0001205,"transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific DNA binding",E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0008340,determination of adult lifespan,F1MSA4(Evidence code:IEA/Database source:UniProtKB:Q6PFE3|ens),RAD54B,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0004528,phosphodiesterase I activity,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0030643,cellular phosphate ion homeostasis,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0071639,positive regulation of monocyte chemotactic protein-1 production,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:1902187,negative regulation of viral release from host cell,G3X823(Evidence code:IEA/Database source:UniProtKB:Q12899|ens),TRIM26,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0010745,negative regulation of macrophage derived foam cell differentiation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0007095,mitotic G2 DNA damage checkpoint,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:O60934),NBN,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:2000660,negative regulation of interleukin-1-mediated signaling pathway,O77482(Evidence code:IEA/Database source:InterPro:IPR039348),IL1RN,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0030730,sequestering of triglyceride,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0043353,enucleate erythrocyte differentiation,P02192(Evidence code:IEA/Database source:UniProtKB:P04247|ens),MB,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:1902741,positive regulation of interferon-alpha secretion,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0007130,synaptonemal complex assembly,E1BLN1(Evidence code:IEA/Database source:InterPro:IPR008827),SYCP1,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:2000481,positive regulation of cAMP-dependent protein kinase activity,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0070306,lens fiber cell differentiation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0045943,positive regulation of transcription by RNA polymerase I,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0006098,pentose-phosphate shunt,Q3T186(Evidence code:IEA/Database source:UniPathway:UPA00115),RPIA,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0001222,transcription corepressor binding,E1BMT1(Evidence code:IEA/Database source:UniProtKB:O95343|ens),SIX3,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0035473,lipase binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0004865,protein serine/threonine phosphatase inhibitor activity,F1N1Q9(Evidence code:IEA/Database source:UniProtKB:Q9Z2E4|ens),PPP1R17,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0071218,cellular response to misfolded protein,Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2),DNAJB12,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0070528,protein kinase C signaling,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:Q9JHK5|ens),PLEK,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0033034,positive regulation of myeloid cell apoptotic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0071547,piP-body,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,CC,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0070417,cellular response to cold,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0010792,DNA double-strand break processing involved in repair via single-strand annealing,A6QNQ6(Evidence code:IEA/Database source:InterPro:IPR033594),RBBP8,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0021846,cell proliferation in forebrain,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0004517,nitric-oxide synthase activity,P29473(Evidence code:IEA/Database source:InterPro:IPR004030|I),NOS3,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0048007,"antigen processing and presentation, exogenous lipid antigen via MHC class Ib",Q1L1H6(Evidence code:IBA/Database source:PANTHER:PTN000422284),CD1B3,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0043325,"phosphatidylinositol-3,4-bisphosphate binding",F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,MF,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0035372,protein localization to microtubule,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,BP,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0033018,sarcoplasmic reticulum lumen,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,CC,1,1 of 2,0.81,50,0.01143,0.04316
+GO:0008033,tRNA processing,Q5E9U4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0819)Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0819), TYW3 ELAC1,BP,2,2 of 43,1.63,4.65,0.01306,0.04907
+GO:0072659,protein localization to plasma membrane,E1BMC6(Evidence code:IEA/Database source:UniProtKB:Q14BN4|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), SLMAP ADIPOQ,BP,2,2 of 44,1.63,4.55,0.01362,0.04948
+GO:0006983,ER overload response,A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5),EIF2AK3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0007263,nitric oxide mediated signal transduction,P29473(Evidence code:IBA/Database source:PANTHER:PTN001066032),NOS3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0042405,nuclear inclusion body,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:O60934),NBN,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:1902692,regulation of neuroblast proliferation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0001733,galactosylceramide sulfotransferase activity,Q0VCH4(Evidence code:IEA/Database source:InterPro:IPR009729),GAL3ST3,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0010880,regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0035267,NuA4 histone acetyltransferase complex,E1BDZ8(Evidence code:IEA/Database source:InterPro:IPR024943),EPC2,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0010804,negative regulation of tumor necrosis factor-mediated signaling pathway,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0042148,strand invasion,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0051373,FATZ binding,Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135),MYOZ1,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0050694,galactose 3-O-sulfotransferase activity,Q0VCH4(Evidence code:IEA/Database source:UniProtKB:Q96A11|ens),GAL3ST3,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0001673,male germ cell nucleus,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens),SYCP1,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0021983,pituitary gland development,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0046597,negative regulation of viral entry into host cell,G3X823(Evidence code:IEA/Database source:UniProtKB:Q12899|ens),TRIM26,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0047429,nucleoside-triphosphate diphosphatase activity,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0006527,arginine catabolic process,P29473(Evidence code:IDA/Database source:),NOS3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0000795,synaptonemal complex,E1BLN1(Evidence code:IEA/Database source:InterPro:IPR008827),SYCP1,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0030300,regulation of intestinal cholesterol absorption,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439034),APOA5,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0031433,telethonin binding,Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135),MYOZ1,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0000730,DNA recombinase assembly,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0042989,sequestering of actin monomers,P62326(Evidence code:IDA/Database source:),TMSB4,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0071546,pi-body,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0046325,negative regulation of glucose import,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0006809,nitric oxide biosynthetic process,P29473(Evidence code:IEA/Database source:InterPro:IPR004030|I),NOS3,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0070208,protein heterotrimerization,Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB:Q60994|ens),ADIPOQ,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0000150,recombinase activity,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,MF,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0080182,histone H3-K4 trimethylation,E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens),TET2,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:1900121,negative regulation of receptor binding,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0030014,CCR4-NOT complex,A4IFB6(Evidence code:ISS/Database source:UniProtKB:Q9H9A5),CNOT10,CC,1,1 of 3,0.81,33.33,0.0152,0.04948
+GO:0045087,innate immune response,Q8SPF8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0399)E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q8R5F7|ens)G3X823(Evidence code:IEA/Database source:UniProtKB:Q12899|ens), BPIFB1 IFIH1 TRIM26,BP,3,3 of 131,2.44,2.29,0.01535,0.04974
+GO:0007165,signal transduction,F1MUU8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0807)F1MS60(Evidence code:IEA/Database source:InterPro:IPR000198|I)F1MCG9(Evidence code:IEA/Database source:InterPro:IPR037607)A2VDS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0807)F1MXF5(Evidence code:IEA/Database source:InterPro:IPR028745)A5D7R1(Evidence code:IEA/Database source:InterPro:IPR000488)F1ME33(Evidence code:IEA/Database source:UniProtKB-KW:KW-0807)E1B7L5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0807), OR8D4 ARHGAP33 DGKK VIPR1 AKAP9 TNFRSF11B LOC788438 OR6C75,BP,8,8 of 809,6.5,0.99,0.01585,0.05111
+GO:0003723,RNA binding,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0694)Q3MHV8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0694)Q56JZ1(Evidence code:IBA/Database source:PANTHER:PTN000197497)F1MXK2(Evidence code:IEA/Database source:InterPro:IPR032747)F1MUI1(Evidence code:IEA/Database source:InterPro:IPR004088|I)Q2KIJ3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0694), ALYREF RBM15B RPL13 NUFIP2 TDRKH NOL8,MF,6,6 of 520,4.88,1.15,0.01764,0.05179
+GO:0030425,dendrite,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4)G5E5W4(Evidence code:IEA/Database source:UniProtKB:Q99P47|ens), CRIPT CNTNAP4,CC,2,2 of 50,1.63,4,0.01718,0.05179
+GO:0008201,heparin binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens)Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0358), APOA5 HDGF,MF,2,2 of 52,1.63,3.85,0.01845,0.05179
+GO:0070513,death domain binding,Q5EAE6(Evidence code:IBA/Database source:PANTHER:PTN000323543),DAP,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0060213,positive regulation of nuclear-transcribed mRNA poly(A) tail shortening,F1MY06(Evidence code:IEA/Database source:UniProtKB:Q9UPQ9|ens),TNRC6B,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0031529,ruffle organization,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0010739,positive regulation of protein kinase A signaling,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0032727,positive regulation of interferon-alpha production,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0034383,low-density lipoprotein particle clearance,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0050765,negative regulation of phagocytosis,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0005031,tumor necrosis factor-activated receptor activity,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849),TNFRSF11B,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0007020,microtubule nucleation,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0008156,negative regulation of DNA replication,E1BKG4(Evidence code:IEA/Database source:UniProtKB:Q29RF7|ens),PDS5A,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:1901018,positive regulation of potassium ion transmembrane transporter activity,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0010642,negative regulation of platelet-derived growth factor receptor signaling pathway,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0005080,protein kinase C binding,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0001103,RNA polymerase II repressing transcription factor binding,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0051601,exocyst localization,E1B9K5(Evidence code:IBA/Database source:PANTHER:PTN000480155),EXOC3L4,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0001660,fever generation,O77482(Evidence code:IBA/Database source:PANTHER:PTN000008646),IL1RN,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0051006,positive regulation of lipoprotein lipase activity,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0060307,regulation of ventricular cardiac muscle cell membrane repolarization,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0060228,phosphatidylcholine-sterol O-acyltransferase activator activity,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:2001256,regulation of store-operated calcium entry,Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens),casq1,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0010575,positive regulation of vascular endothelial growth factor production,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:2000778,positive regulation of interleukin-6 secretion,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0032225,"regulation of synaptic transmission, dopaminergic",G5E5W4(Evidence code:IEA/Database source:UniProtKB:Q99P47|ens),CNTNAP4,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0090503,"RNA phosphodiester bond hydrolysis, exonucleolytic",A3KN06(Evidence code:IEA/Database source:InterPro:IPR038838),C7H19ORF43,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0010873,positive regulation of cholesterol esterification,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0034372,very-low-density lipoprotein particle remodeling,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0003958,NADPH-hemoprotein reductase activity,P29473(Evidence code:IBA/Database source:PANTHER:PTN000453822),NOS3,MF,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0071437,invadopodium,A6QQV9(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),AFAP1L1,CC,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0002070,epithelial cell maturation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0034380,high-density lipoprotein particle assembly,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0045721,negative regulation of gluconeogenesis,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0031284,positive regulation of guanylate cyclase activity,P29473(Evidence code:IMP/Database source:),NOS3,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:1900153,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",F1MY06(Evidence code:IEA/Database source:UniProtKB:Q9UPQ9|ens),TNRC6B,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0042246,tissue regeneration,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0071499,cellular response to laminar fluid shear stress,P29473(Evidence code:IMP/Database source:),NOS3,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0030521,androgen receptor signaling pathway,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens),UBE3A,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:1902742,apoptotic process involved in development,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0007205,protein kinase C-activating G-protein coupled receptor signaling pathway,F1MCG9(Evidence code:IEA/Database source:InterPro:IPR000756),DGKK,BP,1,1 of 4,0.81,25,0.01897,0.05179
+GO:0008017,microtubule binding,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4)Q3MHK0(Evidence code:IEA/Database source:InterPro:IPR001752), CRIPT KIF3A,MF,2,2 of 55,1.63,3.64,0.02042,0.05554
+GO:0006914,autophagy,Q5EAE6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0072)A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0072), DAP USP10,BP,2,2 of 57,1.63,3.51,0.02178,0.05576
+GO:0010591,regulation of lamellipodium assembly,Q08DY1(Evidence code:IEA/Database source:UniProtKB:Q9JI08|ens),BIN3,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0043198,dendritic shaft,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,CC,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0043691,reverse cholesterol transport,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0034237,protein kinase A regulatory subunit binding,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0060229,lipase activator activity,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0030836,positive regulation of actin filament depolymerization,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0003351,epithelial cilium movement,E1BA36(Evidence code:IEA/Database source:UniProtKB:Q5S003|ens),SPAG17,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0046339,diacylglycerol metabolic process,F1MCG9(Evidence code:IEA/Database source:UniProtKB:Q5KSL6|ens),DGKK,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0000145,exocyst,E1B9K5(Evidence code:IEA/Database source:InterPro:IPR010326),EXOC3L4,CC,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0046856,phosphatidylinositol dephosphorylation,E1BAU6(Evidence code:IEA/Database source:InterPro:IPR000300),INPP5E,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0009143,nucleoside triphosphate catabolic process,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0034370,triglyceride-rich lipoprotein particle remodeling,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q8C7G5|ens),APOA5,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0030247,polysaccharide binding,F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001212|I),ENPP1,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0016925,protein sumoylation,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0034587,piRNA metabolic process,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0008409,5-3 exonuclease activity,A3KN06(Evidence code:IEA/Database source:InterPro:IPR038838),C7H19ORF43,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0004697,protein kinase C activity,A0JN97(Evidence code:IEA/Database source:InterPro:IPR014376|I),PRKCD,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0071360,cellular response to exogenous dsRNA,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0007140,male meiotic nuclear division,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0005664,nuclear origin of replication recognition complex,Q58DC8(Evidence code:ISS/Database source:UniProtKB:Q13415),ORC1,CC,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0070527,platelet aggregation,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:Q9JHK5|ens),PLEK,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0030008,TRAPP complex,Q3T086(Evidence code:IBA/Database source:PANTHER:PTN000302156),TRAPPC6A,CC,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0000407,phagophore assembly site,A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens),STX12,CC,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0080111,DNA demethylation,E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens),TET2,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0007528,neuromuscular junction development,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0000980,RNA polymerase II distal enhancer sequence-specific DNA binding,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,MF,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0010898,positive regulation of triglyceride catabolic process,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0046627,negative regulation of insulin receptor signaling pathway,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 5,0.81,20,0.02272,0.05576
+GO:0035556,intracellular signal transduction,L8B5P3(Evidence code:IEA/Database source:InterPro:IPR001054)F1MCG9(Evidence code:IEA/Database source:InterPro:IPR002219)A0JN97(Evidence code:IEA/Database source:InterPro:IPR002219)F1MRZ8(Evidence code:IEA/Database source:InterPro:IPR000591), ADCY10 DGKK PRKCD PLEK,BP,4,4 of 275,3.25,1.45,0.02367,0.0579
+GO:0007015,actin filament organization,P62326(Evidence code:IEA/Database source:InterPro:IPR001152)P21752(Evidence code:IEA/Database source:InterPro:IPR001152), TMSB4 TMSB10,BP,2,2 of 63,1.63,3.17,0.02607,0.06103
+GO:0006312,mitotic recombination,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0033209,tumor necrosis factor-mediated signaling pathway,A5D7R1(Evidence code:IEA/Database source:GO:0005031),TNFRSF11B,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0045190,isotype switching,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:Q9R207),NBN,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0005795,Golgi stack,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,CC,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0001965,G-protein alpha-subunit binding,E1BD35(Evidence code:IBA/Database source:PANTHER:PTN000965417),RIC8B,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0005158,insulin receptor binding,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0031083,BLOC-1 complex,A7MAZ2(Evidence code:IDA/Database source:),STX12,CC,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0035278,miRNA mediated inhibition of translation,F1MY06(Evidence code:IEA/Database source:InterPro:IPR033500),TNRC6B,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0000339,RNA cap binding,Q2YDE1(Evidence code:IEA/Database source:InterPro:IPR037585),EIF4G3,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0007064,mitotic sister chromatid cohesion,E1BKG4(Evidence code:IEA/Database source:UniProtKB:Q29RF7|ens),PDS5A,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0017127,cholesterol transporter activity,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0031994,insulin-like growth factor I binding,Q05718(Evidence code:IBA/Database source:PANTHER:PTN000167605),IGFBP6,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0048512,circadian behavior,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0031995,insulin-like growth factor II binding,Q05718(Evidence code:IBA/Database source:PANTHER:PTN000167605),IGFBP6,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0004017,adenylate kinase activity,A4IFD0(Evidence code:IEA/Database source:InterPro:IPR006267),Ak5,MF,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0060760,positive regulation of response to cytokine stimulus,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0043567,regulation of insulin-like growth factor receptor signaling pathway,Q05718(Evidence code:IBA/Database source:PANTHER:PTN000167605),IGFBP6,BP,1,1 of 6,0.81,16.67,0.02645,0.06103
+GO:0007264,small GTPase mediated signal transduction,F1MS60(Evidence code:IBA/Database source:PANTHER:PTN001813090)F1MIX6(Evidence code:IEA/Database source:InterPro:IPR026791|I), ARHGAP33 DOCK1,BP,2,2 of 64,1.63,3.12,0.02682,0.06168
+GO:0048471,perinuclear region of cytoplasm,P51122(Evidence code:ISS/Database source:UniProtKB:P39687)A0JN97(Evidence code:IEA/Database source:UniProtKB-SubCell:SL)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q9JHI8), ANP32A PRKCD ADIPOQ,CC,3,3 of 170,2.44,1.76,0.02973,0.06508
+GO:0097190,apoptotic signaling pathway,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849)Q5EAE6(Evidence code:IBA/Database source:PANTHER:PTN000323543), TNFRSF11B DAP,BP,2,2 of 67,1.63,2.99,0.02911,0.06508
+GO:0086091,regulation of heart rate by cardiac conduction,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0030330,"DNA damage response, signal transduction by p53 class mediator",A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:1902042,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,P29473(Evidence code:IMP/Database source:),NOS3,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0031116,positive regulation of microtubule polymerization,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0019433,triglyceride catabolic process,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0005149,interleukin-1 receptor binding,O77482(Evidence code:IEA/Database source:InterPro:IPR003297),IL1RN,MF,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0043046,DNA methylation involved in gamete generation,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0005891,voltage-gated calcium channel complex,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,CC,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0031210,phosphatidylcholine binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0042627,chylomicron,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,CC,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0051085,chaperone cofactor-dependent protein refolding,Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2),DNAJB12,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0031369,translation initiation factor binding,Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens),TBL2,MF,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0031143,pseudopodium,Q8SQ24(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),MYOZ1,CC,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0042157,lipoprotein metabolic process,A4FUZ9(Evidence code:IEA/Database source:InterPro:IPR000074),APOA5,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0031102,neuron projection regeneration,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0045723,positive regulation of fatty acid biosynthetic process,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0050750,low-density lipoprotein particle receptor binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0017025,TBP-class protein binding,Q5E9A1(Evidence code:ISS/Database source:UniProtKB:Q60817),NACA,MF,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0016529,sarcoplasmic reticulum,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,CC,1,1 of 7,0.81,14.29,0.03018,0.06508
+GO:0016301,kinase activity,F1MCG9(Evidence code:IEA/Database source:InterPro:IPR001206)A4IFD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0418)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0418), DGKK Ak5 PRKCD,MF,3,3 of 174,2.44,1.72,0.03149,0.06749
+GO:0000785,chromatin,E1BKG4(Evidence code:IEA/Database source:UniProtKB:Q29RF7|ens)P02316(Evidence code:IEA/Database source:InterPro:IPR000079), PDS5A HMGN1,CC,2,2 of 70,1.63,2.86,0.03148,0.06749
+GO:0034361,very-low-density lipoprotein particle,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,CC,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0050850,positive regulation of calcium-mediated signaling,P62958(Evidence code:IEA/Database source:UniProtKB:P70349|ens),HINT1,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0070192,chromosome organization involved in meiotic cell cycle,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001489025),DMC1,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0010181,FMN binding,P29473(Evidence code:IEA/Database source:InterPro:IPR001094|I),NOS3,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0005344,oxygen carrier activity,P02192(Evidence code:IEA/Database source:UniProtKB-KW:KW-0561),MB,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0032515,negative regulation of phosphoprotein phosphatase activity,F1N1Q9(Evidence code:IEA/Database source:GO:0004864),PPP1R17,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0019825,oxygen binding,P02192(Evidence code:IEA/Database source:InterPro:IPR002335|I),MB,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:2000058,regulation of ubiquitin-dependent protein catabolic process,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0000400,four-way junction DNA binding,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0006904,vesicle docking involved in exocytosis,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:Q9JHK5|ens),PLEK,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0004550,nucleoside diphosphate kinase activity,A4IFD0(Evidence code:IEA/Database source:EC:2.7.4.6),Ak5,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0060306,regulation of membrane repolarization,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0005515,protein binding,A7MAZ2(Evidence code:IPI/Database source:UniProtKB:Q08DU8),STX12,MF,1,1 of 1669,0.81,0.06,0.03319,0.06749
+GO:0000060,"protein import into nucleus, translocation",E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0030073,insulin secretion,O77482(Evidence code:IEA/Database source:UniProtKB:P25085|ens),IL1RN,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0004402,histone acetyltransferase activity,E1BDZ8(Evidence code:IBA/Database source:PANTHER:PTN000382618),EPC2,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0009154,purine ribonucleotide catabolic process,P62958(Evidence code:ISS/Database source:UniProtKB:P49773),HINT1,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0097110,scaffold protein binding,Q3ZC66(Evidence code:IEA/Database source:UniProtKB:Q9P021|ens),CRIPT,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0045111,intermediate filament cytoskeleton,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens),PLEC,CC,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0000118,histone deacetylase complex,P62958(Evidence code:ISS/Database source:UniProtKB:P49773),HINT1,CC,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0046470,phosphatidylcholine metabolic process,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439034),APOA5,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0004864,protein phosphatase inhibitor activity,F1N1Q9(Evidence code:IEA/Database source:InterPro:IPR033242),PPP1R17,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0005245,voltage-gated calcium channel activity,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,MF,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0030866,cortical actin cytoskeleton organization,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0046326,positive regulation of glucose import,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0048741,skeletal muscle fiber development,Q08DY1(Evidence code:IEA/Database source:UniProtKB:Q9JI08|ens),BIN3,BP,1,1 of 8,0.81,12.5,0.03388,0.06749
+GO:0031965,nuclear membrane,Q58DR2(Evidence code:IEA/Database source:UniProtKB-SubCell:SL)Q1RMH9(Evidence code:IEA/Database source:UniProtKB:Q99543|ens), DNAJB12 DNAJC2,CC,2,2 of 75,1.63,2.67,0.03558,0.07068
+GO:0032720,negative regulation of tumor necrosis factor production,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0046622,positive regulation of organ growth,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0045214,sarcomere organization,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0016849,phosphorus-oxygen lyase activity,L8B5P3(Evidence code:IEA/Database source:InterPro:IPR001054),ADCY10,MF,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0004551,nucleotide diphosphatase activity,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,MF,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0042743,hydrogen peroxide metabolic process,Q3SZT9(Evidence code:IEA/Database source:UniProtKB:P00015|ens),CYCT,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0002088,lens development in camera-type eye,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0043486,histone exchange,P51122(Evidence code:IBA/Database source:PANTHER:PTN000146837),ANP32A,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0032570,response to progesterone,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0033700,phospholipid efflux,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0042734,presynaptic membrane,G5E5W4(Evidence code:IEA/Database source:UniProtKB:Q99P47|ens),CNTNAP4,CC,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0031532,actin cytoskeleton reorganization,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:1902235,regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0003777,microtubule motor activity,Q3MHK0(Evidence code:IEA/Database source:InterPro:IPR001752|I),KIF3A,MF,1,1 of 9,0.81,11.11,0.03758,0.0719
+GO:0004518,nuclease activity,Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0540)A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0540), ELAC1 RBBP8,MF,2,2 of 79,1.63,2.53,0.039,0.07444
+GO:0016740,transferase activity,F1MCG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808)A4IFD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808)A4IFN7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808)Q0VCH4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808)Q5E9U4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808), DGKK PRKCD Ak5 UBE3A GAL3ST3 TYW3,MF,6,6 of 633,4.88,0.95,0.03958,0.07535
+GO:0035861,site of double-strand break,F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,CC,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0000266,mitochondrial fission,Q58CR1(Evidence code:IEA/Database source:UniProtKB:Q8VED8|ens),MTFR2,BP,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0030239,myofibril assembly,Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135),MYOZ1,BP,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0070325,lipoprotein particle receptor binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,G3N0U2(Evidence code:IEA/Database source:InterPro:IPR015452),CCNB3,BP,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0001540,amyloid-beta binding,G3N0A1(Evidence code:IEA/Database source:UniProtKB:Q8BUY8|ens),GPRASP2,MF,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0070469,respiratory chain,Q3SZT9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0679),CYCT,CC,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0002102,podosome,A6QQV9(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),AFAP1L1,CC,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0043010,camera-type eye development,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0045923,positive regulation of fatty acid metabolic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 10,0.81,10,0.04125,0.07652
+GO:0005179,hormone activity,P19159(Evidence code:IEA/Database source:InterPro:IPR001400|I)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), CSH2 ADIPOQ,MF,2,2 of 82,1.63,2.44,0.04165,0.07706
+GO:0005125,cytokine activity,O77482(Evidence code:IEA/Database source:InterPro:IPR000975)Q2KIE5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0202), IL1RN CXCL2,MF,2,2 of 84,1.63,2.38,0.04345,0.08019
+GO:0051219,phosphoprotein binding,Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens),TBL2,MF,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0071944,cell periphery,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q9JHI8),ADIPOQ,CC,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0006123,"mitochondrial electron transport, cytochrome c to oxygen",Q3SZT9(Evidence code:IBA/Database source:PANTHER:PTN000238899),CYCT,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0008198,ferrous iron binding,E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens),TET2,MF,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",Q3SZT9(Evidence code:IBA/Database source:PANTHER:PTN000238899),CYCT,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0043027,cysteine-type endopeptidase inhibitor activity involved in apoptotic process,A4IF78(Evidence code:IEA/Database source:UniProtKB:O95379|ens),TNFAIP8,MF,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0071320,cellular response to cAMP,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0032728,positive regulation of interferon-beta production,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0045335,phagocytic vesicle,A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens),STX12,CC,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0031122,cytoplasmic microtubule organization,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:2000177,regulation of neural precursor cell proliferation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 11,0.81,9.09,0.04492,0.08065
+GO:0016787,hydrolase activity,E1BAU6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0378)Q29RY4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0378)E1BJZ0(Evidence code:IEA/Database source:InterPro:IPR006935)A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0378)P62958(Evidence code:ISS/Database source:UniProtKB:P49773)F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001604|I)A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0378), INPP5E ELAC1 IFIH1 RBBP8 HINT1 ENPP1 USP10,MF,7,7 of 836,5.69,0.84,0.04791,0.08292
+GO:0051260,protein homooligomerization,A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994), EIF2AK3 ADIPOQ,BP,2,2 of 88,1.63,2.27,0.04713,0.08292
+GO:0007029,endoplasmic reticulum organization,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0050840,extracellular matrix binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0006493,protein O-linked glycosylation,E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens),TET2,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:1902624,positive regulation of neutrophil migration,P62326(Evidence code:IMP/Database source:),TMSB4,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0000723,telomere maintenance,Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592),NBN,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0043473,pigmentation,Q3T086(Evidence code:IEA/Database source:UniProtKB:Q78XR0|ens),TRAPPC6A,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0072332,intrinsic apoptotic signaling pathway by p53 class mediator,P62958(Evidence code:ISS/Database source:UniProtKB:P49773),HINT1,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0017053,transcriptional repressor complex,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,CC,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0071385,cellular response to glucocorticoid stimulus,P62326(Evidence code:IDA/Database source:),TMSB4,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0032757,positive regulation of interleukin-8 production,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0000014,single-stranded DNA endodeoxyribonuclease activity,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0050996,positive regulation of lipid catabolic process,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0032947,protein-containing complex scaffold activity,F1MXF5(Evidence code:IEA/Database source:InterPro:IPR028745),AKAP9,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0045744,negative regulation of G-protein coupled receptor protein signaling pathway,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0005520,insulin-like growth factor binding,Q05718(Evidence code:IEA/Database source:InterPro:IPR000867|I),IGFBP6,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0015485,cholesterol binding,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0030544,Hsp70 protein binding,Q1RMH9(Evidence code:IEA/Database source:UniProtKB:Q99543|ens),DNAJC2,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0051281,positive regulation of release of sequestered calcium ion into cytosol,Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens),casq1,BP,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0015459,potassium channel regulator activity,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,MF,1,1 of 12,0.81,8.33,0.04857,0.08292
+GO:0003824,catalytic activity,F1MNS5(Evidence code:IEA/Database source:InterPro:IPR002591|I)P62958(Evidence code:IEA/Database source:InterPro:IPR011146), ENPP1 HINT1,MF,2,2 of 1952,1.63,0.1,0.04991,0.08502
+GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic",Q29RY4(Evidence code:IEA/Database source:GO:0016891),ELAC1,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0001654,eye development,E1BMT1(Evidence code:IEA/Database source:InterPro:IPR032949),SIX3,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0035690,cellular response to drug,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0010507,negative regulation of autophagy,Q5EAE6(Evidence code:IBA/Database source:PANTHER:PTN000323543),DAP,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0016891,"endoribonuclease activity, producing 5-phosphomonoesters",Q29RY4(Evidence code:IEA/Database source:InterPro:IPR013471),ELAC1,MF,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0050805,negative regulation of synaptic transmission,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0009190,cyclic nucleotide biosynthetic process,L8B5P3(Evidence code:IEA/Database source:InterPro:IPR001054),ADCY10,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0048145,regulation of fibroblast proliferation,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:Q9JIL9),NBN,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0050807,regulation of synapse organization,G5E5W4(Evidence code:IEA/Database source:UniProtKB:Q99P47|ens),CNTNAP4,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0034364,high-density lipoprotein particle,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,CC,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0031047,gene silencing by RNA,F1MY06(Evidence code:IEA/Database source:UniProtKB:Q9UPQ9|ens),TNRC6B,BP,1,1 of 13,0.81,7.69,0.0522,0.08669
+GO:0043292,contractile fiber,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q9QXS1|ens),PLEC,CC,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0002039,p53 binding,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,MF,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0055090,acylglycerol homeostasis,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0008408,3-5 exonuclease activity,A3KN06(Evidence code:IEA/Database source:InterPro:IPR038838),C7H19ORF43,MF,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0031492,nucleosomal DNA binding,P02316(Evidence code:IEA/Database source:InterPro:IPR000079),HMGN1,MF,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0070328,triglyceride homeostasis,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0043197,dendritic spine,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,CC,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0009749,response to glucose,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 14,0.81,7.14,0.05583,0.09104
+GO:0032233,positive regulation of actin filament bundle assembly,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0000082,G1/S transition of mitotic cell cycle,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q80YR6|ens),RBBP8,BP,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0090303,positive regulation of wound healing,P62326(Evidence code:IMP/Database source:),TMSB4,BP,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0005518,collagen binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:1903038,negative regulation of leukocyte cell-cell adhesion,P29473(Evidence code:IMP/Database source:),NOS3,BP,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0010494,cytoplasmic stress granule,F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens),NUFIP2,CC,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0030165,PDZ domain binding,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,MF,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:1902305,regulation of sodium ion transmembrane transport,E1BMC6(Evidence code:IEA/Database source:UniProtKB:Q14BN4|ens),SLMAP,BP,1,1 of 15,0.81,6.67,0.05943,0.09522
+GO:0016607,nuclear speck,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-SubCell:SL)F1MIX6(Evidence code:IEA/Database source:UniProtKB:A0A096LNH6), ALYREF DOCK1,CC,2,2 of 103,1.63,1.94,0.06189,0.09818
+GO:0007005,mitochondrion organization,Q58CR1(Evidence code:IEA/Database source:UniProtKB:Q8VED8|ens)P29473(Evidence code:IMP/Database source:), MTFR2 NOS3,BP,2,2 of 104,1.63,1.92,0.06292,0.09818
+GO:0005925,focal adhesion,Q5E9C0(Evidence code:IEA/Database source:UniProtKB:Q15404|ens)E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens), RSU1 PLEC,CC,2,2 of 103,1.63,1.94,0.06189,0.09818
+GO:0043407,negative regulation of MAP kinase activity,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0007229,integrin-mediated signaling pathway,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0005623,cell,Q3Y5Z3(Evidence code:IDA/Database source:),ADIPOQ,CC,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0000045,autophagosome assembly,A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens),STX12,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0051321,meiotic cell cycle,A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0469),RBBP8,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0048747,muscle fiber development,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0006289,nucleotide-excision repair,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0008076,voltage-gated potassium channel complex,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,CC,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0005044,scavenger receptor activity,F1MNS5(Evidence code:IEA/Database source:InterPro:IPR001212|I),ENPP1,MF,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0071456,cellular response to hypoxia,Q0P5H6(Evidence code:IEA/Database source:UniProtKB:Q9Y4P3|ens),TBL2,BP,1,1 of 16,0.81,6.25,0.06303,0.09818
+GO:0045739,positive regulation of DNA repair,F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0006891,intra-Golgi vesicle-mediated transport,Q2TBU3(Evidence code:IBA/Database source:PANTHER:PTN000473329),GOSR1,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0008094,DNA-dependent ATPase activity,F1N1D2(Evidence code:IEA/Database source:InterPro:IPR011940|I),DMC1,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0048278,vesicle docking,A7MAZ2(Evidence code:IBA/Database source:PANTHER:PTN000461349),STX12,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0019905,syntaxin binding,E1BGS4(Evidence code:IEA/Database source:InterPro:IPR026183),TXLNA,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0030837,negative regulation of actin filament polymerization,A2VDX0(Evidence code:IEA/Database source:InterPro:IPR028458),TWF2,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0003727,single-stranded RNA binding,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0010811,positive regulation of cell-substrate adhesion,Q5E9C0(Evidence code:IEA/Database source:UniProtKB:Q15404|ens),RSU1,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0003684,damaged DNA binding,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0005930,axoneme,E1BAU6(Evidence code:IEA/Database source:UniProtKB:Q9JII1|ens),INPP5E,CC,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0009060,aerobic respiration,Q58CR1(Evidence code:IEA/Database source:UniProtKB:Q8VED8|ens),MTFR2,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0007286,spermatid development,F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens),DMC1,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0003705,"transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding",E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0006695,cholesterol biosynthetic process,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,BP,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0005178,integrin binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 17,0.81,5.88,0.06661,0.1005
+GO:0003725,double-stranded RNA binding,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,MF,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0005903,brush border,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q9QXS1|ens),PLEC,CC,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0006641,triglyceride metabolic process,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0070373,negative regulation of ERK1 and ERK2 cascade,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0050661,NADP binding,P29473(Evidence code:IEA/Database source:InterPro:IPR012144),NOS3,MF,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0004520,endodeoxyribonuclease activity,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,MF,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0019205,nucleobase-containing compound kinase activity,A4IFD0(Evidence code:IEA/Database source:InterPro:IPR000850),Ak5,MF,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0006635,fatty acid beta-oxidation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:0014068,positive regulation of phosphatidylinositol 3-kinase signaling,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens),UBE3A,BP,1,1 of 18,0.81,5.56,0.07017,0.104
+GO:2001244,positive regulation of intrinsic apoptotic signaling pathway,Q3SZT9(Evidence code:IEA/Database source:UniProtKB:P00015|ens),CYCT,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0043154,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,A4IF78(Evidence code:IEA/Database source:GO:0043027),TNFAIP8,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0042632,cholesterol homeostasis,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0008009,chemokine activity,Q2KIE5(Evidence code:IEA/Database source:InterPro:IPR001089|I),CXCL2,MF,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0051384,response to glucocorticoid,O77482(Evidence code:IEA/Database source:UniProtKB:P18510|ens),IL1RN,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0016573,histone acetylation,E1BDZ8(Evidence code:IEA/Database source:GO:0004402),EPC2,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0019827,stem cell population maintenance,E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9Z183|ens),PADI4,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0005884,actin filament,Q08DY1(Evidence code:IEA/Database source:UniProtKB:Q9JI08|ens),BIN3,CC,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0005901,caveola,P29473(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),NOS3,CC,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0009247,glycolipid biosynthetic process,Q0VCH4(Evidence code:IEA/Database source:InterPro:IPR009729),GAL3ST3,BP,1,1 of 19,0.81,5.26,0.07373,0.1071
+GO:0004672,protein kinase activity,A0JN97(Evidence code:IEA/Database source:InterPro:IPR000719|I)A5D791(Evidence code:IEA/Database source:InterPro:IPR000719|I), PRKCD EIF2AK3,MF,2,2 of 116,1.63,1.72,0.07575,0.1096
+GO:0003682,chromatin binding,Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543)Q58DC8(Evidence code:IEA/Database source:InterPro:IPR001025), DNAJC2 ORC1,MF,2,2 of 116,1.63,1.72,0.07575,0.1096
+GO:0070936,protein K48-linked ubiquitination,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0010906,regulation of glucose metabolic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0051865,protein autoubiquitination,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0007093,mitotic cell cycle checkpoint,Q3SZL4(Evidence code:IEA/Database source:InterPro:IPR016592),NBN,BP,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0042826,histone deacetylase binding,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,MF,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0071347,cellular response to interleukin-1,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,BP,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0032587,ruffle membrane,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,CC,1,1 of 20,0.81,5,0.07727,0.1102
+GO:0000079,regulation of cyclin-dependent protein serine/threonine kinase activity,G3N0U2(Evidence code:IEA/Database source:InterPro:IPR015452),CCNB3,BP,1,1 of 21,0.81,4.76,0.08079,0.1141
+GO:0016363,nuclear matrix,P51122(Evidence code:IEA/Database source:UniProtKB:O35381|ens),ANP32A,CC,1,1 of 21,0.81,4.76,0.08079,0.1141
+GO:0001650,fibrillar center,Q3ZC66(Evidence code:IEA/Database source:UniProtKB:Q9P021|ens),CRIPT,CC,1,1 of 21,0.81,4.76,0.08079,0.1141
+GO:0006165,nucleoside diphosphate phosphorylation,A4IFD0(Evidence code:ISS/Database source:UniProtKB:Q9Y6K8),Ak5,BP,1,1 of 21,0.81,4.76,0.08079,0.1141
+GO:0019395,fatty acid oxidation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 21,0.81,4.76,0.08079,0.1141
+GO:0006954,inflammatory response,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849)O77482(Evidence code:IEA/Database source:InterPro:IPR000975), TNFRSF11B IL1RN,BP,2,2 of 121,1.63,1.65,0.08132,0.1147
+GO:0006511,ubiquitin-dependent protein catabolic process,A4IFN7(Evidence code:IEA/Database source:InterPro:IPR017134)A5PJS6(Evidence code:IEA/Database source:InterPro:IPR018200), UBE3A USP10,BP,2,2 of 122,1.63,1.64,0.08244,0.116
+GO:0042752,regulation of circadian rhythm,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens),UBE3A,BP,1,1 of 22,0.81,4.55,0.0843,0.1175
+GO:0032580,Golgi cisterna membrane,Q0VCH4(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),GAL3ST3,CC,1,1 of 22,0.81,4.55,0.0843,0.1175
+GO:0000784,"nuclear chromosome, telomeric region",F6RF21(Evidence code:IEA/Database source:UniProtKB:A6NHR9|ens),SMCHD1,CC,1,1 of 22,0.81,4.55,0.0843,0.1175
+GO:0003697,single-stranded DNA binding,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,MF,1,1 of 22,0.81,4.55,0.0843,0.1175
+GO:0030178,negative regulation of Wnt signaling pathway,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 22,0.81,4.55,0.0843,0.1175
+GO:0006468,protein phosphorylation,A0JN97(Evidence code:IEA/Database source:InterPro:IPR000719|I)A5D791(Evidence code:IEA/Database source:InterPro:IPR000719|I), PRKCD EIF2AK3,BP,2,2 of 125,1.63,1.6,0.08586,0.1194
+GO:0019903,protein phosphatase binding,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,MF,1,1 of 23,0.81,4.35,0.0878,0.1212
+GO:0030674,"protein binding, bridging",E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens),CNTLN,MF,1,1 of 23,0.81,4.35,0.0878,0.1212
+GO:0047485,protein N-terminus binding,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:O60934),NBN,MF,1,1 of 23,0.81,4.35,0.0878,0.1212
+GO:0040014,regulation of multicellular organism growth,F1MX37(Evidence code:IEA/Database source:UniProtKB:Q6PHS9|ens),CACNA2D2,BP,1,1 of 23,0.81,4.35,0.0878,0.1212
+GO:0036503,ERAD pathway,Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2),DNAJB12,BP,1,1 of 24,0.81,4.17,0.09129,0.1253
+GO:0051258,protein polymerization,Q05JF3(Evidence code:IEA/Database source:UniProtKB:P31415|ens),casq1,BP,1,1 of 24,0.81,4.17,0.09129,0.1253
+GO:0046777,protein autophosphorylation,A5D791(Evidence code:ISS/Database source:UniProtKB:Q9NZJ5),EIF2AK3,BP,1,1 of 24,0.81,4.17,0.09129,0.1253
+GO:0016192,vesicle-mediated transport,Q3T086(Evidence code:IEA/Database source:UniProtKB-KW:KW-0931)A7MAZ2(Evidence code:IEA/Database source:InterPro:IPR010989)Q2TBU3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0931), TRAPPC6A STX12 GOSR1,BP,3,3 of 277,2.44,1.08,0.09415,0.129
+GO:0010921,regulation of phosphatase activity,F1N1Q9(Evidence code:IEA/Database source:InterPro:IPR033242),PPP1R17,BP,1,1 of 25,0.81,4,0.09476,0.1291
+GO:0043280,positive regulation of cysteine-type endopeptidase activity involved in apoptotic process,Q3SZT9(Evidence code:IBA/Database source:PANTHER:PTN000943712),CYCT,BP,1,1 of 25,0.81,4,0.09476,0.1291
+GO:0090317,negative regulation of intracellular protein transport,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 25,0.81,4,0.09476,0.1291
+GO:0070588,calcium ion transmembrane transport,F1MX37(Evidence code:IEA/Database source:GO:0005245),CACNA2D2,BP,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0005840,ribosome,Q56JZ1(Evidence code:IEA/Database source:InterPro:IPR001380|I),RPL13,CC,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0004843,thiol-dependent ubiquitin-specific protease activity,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,MF,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0009408,response to heat,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,BP,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0034612,response to tumor necrosis factor,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0004527,exonuclease activity,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,MF,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0031398,positive regulation of protein ubiquitination,A4IFN7(Evidence code:IEA/Database source:UniProtKB:Q05086|ens),UBE3A,BP,1,1 of 26,0.81,3.85,0.09822,0.1321
+GO:0031012,extracellular matrix,Q2TBM9(Evidence code:IEA/Database source:UniProtKB:Q3U213|ens)A5D7R1(Evidence code:IEA/Database source:UniProtKB:O08712|ens), SERAC1 TNFRSF11B,CC,2,2 of 137,1.63,1.46,0.09991,0.1341
+GO:0009566,fertilization,F1MUI1(Evidence code:IEA/Database source:UniProtKB:Q80VL1|ens),TDRKH,BP,1,1 of 27,0.81,3.7,0.1017,0.1362
+GO:0042383,sarcolemma,E1BF59(Evidence code:IEA/Database source:UniProtKB:Q15149|ens),PLEC,CC,1,1 of 28,0.81,3.57,0.1051,0.1396
+GO:0000786,nucleosome,Q2M2T1(Evidence code:IEA/Database source:InterPro:IPR000558|I),HIST1H2BK,CC,1,1 of 28,0.81,3.57,0.1051,0.1396
+GO:0006606,protein import into nucleus,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 28,0.81,3.57,0.1051,0.1396
+GO:0007420,brain development,E1BMT1(Evidence code:IEA/Database source:InterPro:IPR032949),SIX3,BP,1,1 of 28,0.81,3.57,0.1051,0.1396
+GO:0014069,postsynaptic density,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,CC,1,1 of 28,0.81,3.57,0.1051,0.1396
+GO:0045665,negative regulation of neuron differentiation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 29,0.81,3.45,0.1085,0.1428
+GO:0019838,growth factor binding,Q05718(Evidence code:IEA/Database source:UniProtKB-KW:KW-0340),IGFBP6,MF,1,1 of 29,0.81,3.45,0.1085,0.1428
+GO:0003774,motor activity,Q3MHK0(Evidence code:IEA/Database source:UniRule:UR000401007),KIF3A,MF,1,1 of 29,0.81,3.45,0.1085,0.1428
+GO:0006338,chromatin remodeling,E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9Z183|ens),PADI4,BP,1,1 of 29,0.81,3.45,0.1085,0.1428
+GO:0036459,thiol-dependent ubiquitinyl hydrolase activity,A5PJS6(Evidence code:IEA/Database source:InterPro:IPR001394|I),USP10,MF,1,1 of 29,0.81,3.45,0.1085,0.1428
+GO:0000139,Golgi membrane,E1BAU6(Evidence code:IEA/Database source:UniProtKB:Q9JII1|ens)Q2TBU3(Evidence code:IEA/Database source:InterPro:IPR023601), INPP5E GOSR1,CC,2,2 of 147,1.63,1.36,0.1121,0.1456
+GO:0012505,endomembrane system,A7MAZ2(Evidence code:IBA/Database source:PANTHER:PTN000461349),STX12,CC,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0016579,protein deubiquitination,A5PJS6(Evidence code:IEA/Database source:InterPro:IPR001394),USP10,BP,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0071482,cellular response to light stimulus,Q17QV5(Evidence code:IEA/Database source:InterPro:IPR029588),TRPM3,BP,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0045454,cell redox homeostasis,E1BAG3(Evidence code:IEA/Database source:InterPro:IPR013766),TXNDC16,BP,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0043524,negative regulation of neuron apoptotic process,E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens),TFAP2D,BP,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0005507,copper ion binding,E1BM13(Evidence code:IBA/Database source:PANTHER:PTN001255556),LACC1,MF,1,1 of 30,0.81,3.33,0.1119,0.1456
+GO:0006325,chromatin organization,E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9Z183|ens)Q1RMH9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0156), PADI4 DNAJC2,BP,2,2 of 148,1.63,1.35,0.1133,0.147
+GO:0003743,translation initiation factor activity,Q2YDE1(Evidence code:IEA/Database source:InterPro:IPR037585),EIF4G3,MF,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0004197,cysteine-type endopeptidase activity,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,MF,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0043021,ribonucleoprotein complex binding,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,MF,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0072562,blood microparticle,A4FUZ9(Evidence code:IBA/Database source:PANTHER:PTN000439006),APOA5,CC,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0005814,centriole,E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens),CNTLN,CC,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0004497,monooxygenase activity,Q08DD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0503),CYP46A1,MF,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0030308,negative regulation of cell growth,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0007596,blood coagulation,P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0094),NOS3,BP,1,1 of 31,0.81,3.23,0.1153,0.1475
+GO:0007049,cell cycle,A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0131)A0JN97(Evidence code:IEA/Database source:UniProtKB-KW:KW-0131), RBBP8 PRKCD,BP,2,2 of 151,1.63,1.32,0.117,0.1494
+GO:0005581,collagen trimer,Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0176),ADIPOQ,CC,1,1 of 32,0.81,3.12,0.1187,0.1505
+GO:0050660,flavin adenine dinucleotide binding,P29473(Evidence code:IEA/Database source:InterPro:IPR012144),NOS3,MF,1,1 of 32,0.81,3.12,0.1187,0.1505
+GO:0007599,hemostasis,P29473(Evidence code:IEA/Database source:UniProtKB-KW:KW-0356),NOS3,BP,1,1 of 32,0.81,3.12,0.1187,0.1505
+GO:0007507,heart development,P02192(Evidence code:IEA/Database source:UniProtKB:P04247|ens),MB,BP,1,1 of 32,0.81,3.12,0.1187,0.1505
+GO:0042127,regulation of cell proliferation,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens)A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849)E1BNP7(Evidence code:IBA/Database source:PANTHER:PTN000087637), SIX3 TNFRSF11B TFAP2D,BP,3,3 of 309,2.44,0.97,0.1195,0.1512
+GO:0003714,transcription corepressor activity,A6QNQ6(Evidence code:IEA/Database source:UniProtKB:Q99708|ens),RBBP8,MF,1,1 of 33,0.81,3.03,0.1221,0.1539
+GO:0042593,glucose homeostasis,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 33,0.81,3.03,0.1221,0.1539
+GO:0006366,transcription by RNA polymerase II,E1BMT1(Evidence code:IEA/Database source:GO:0001205),SIX3,BP,1,1 of 34,0.81,2.94,0.1254,0.1571
+GO:0030018,Z disc,Q8SQ24(Evidence code:IBA/Database source:PANTHER:PTN000409135),MYOZ1,CC,1,1 of 34,0.81,2.94,0.1254,0.1571
+GO:0005938,cell cortex,F1MS60(Evidence code:IBA/Database source:PANTHER:PTN000404766),ARHGAP33,CC,1,1 of 34,0.81,2.94,0.1254,0.1571
+GO:0005788,endoplasmic reticulum lumen,E1BAG3(Evidence code:IEA/Database source:UniProtKB:Q9P2K2|ens),TXNDC16,CC,1,1 of 34,0.81,2.94,0.1254,0.1571
+GO:0042995,cell projection,Q8SQ24(Evidence code:IEA/Database source:UniProtKB-KW:KW-0966)Q3ZC66(Evidence code:IEA/Database source:UniProtKB-KW:KW-0966)A6QQV9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0966), MYOZ1 CRIPT AFAP1L1,CC,3,3 of 317,2.44,0.95,0.1261,0.1575
+GO:0042981,regulation of apoptotic process,A4IF78(Evidence code:IEA/Database source:InterPro:IPR008477)P51122(Evidence code:IBA/Database source:PANTHER:PTN000146830)A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849), TNFAIP8 ANP32A TNFRSF11B,BP,3,3 of 317,2.44,0.95,0.1261,0.1575
+GO:0000781,"chromosome, telomeric region",F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens),DMC1,CC,1,1 of 35,0.81,2.86,0.1287,0.1604
+GO:0006898,receptor-mediated endocytosis,F1MNS5(Evidence code:IEA/Database source:GO:0005044),ENPP1,BP,1,1 of 36,0.81,2.78,0.1321,0.1635
+GO:0005802,trans-Golgi network,Q3T086(Evidence code:IBA/Database source:PANTHER:PTN000302156),TRAPPC6A,CC,1,1 of 36,0.81,2.78,0.1321,0.1635
+GO:0033138,positive regulation of peptidyl-serine phosphorylation,F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens),AKAP9,BP,1,1 of 36,0.81,2.78,0.1321,0.1635
+GO:0030176,integral component of endoplasmic reticulum membrane,Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2),DNAJB12,CC,1,1 of 36,0.81,2.78,0.1321,0.1635
+GO:0042493,response to drug,F1MSA4(Evidence code:IEA/Database source:UniProtKB:Q6PFE3|ens),RAD54B,BP,1,1 of 37,0.81,2.7,0.1354,0.1673
+GO:0006006,glucose metabolic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 38,0.81,2.63,0.1387,0.1708
+GO:0030099,myeloid cell differentiation,E1BD99(Evidence code:IEA/Database source:UniProtKB:Q6N021|ens),TET2,BP,1,1 of 38,0.81,2.63,0.1387,0.1708
+GO:0006936,muscle contraction,E1BMC6(Evidence code:IEA/Database source:InterPro:IPR030498),SLMAP,BP,1,1 of 39,0.81,2.56,0.142,0.174
+GO:0009142,nucleoside triphosphate biosynthetic process,A4IFD0(Evidence code:ISS/Database source:UniProtKB:Q9Y6K8),Ak5,BP,1,1 of 39,0.81,2.56,0.142,0.174
+GO:0042113,B cell activation,E1BGS4(Evidence code:IEA/Database source:UniProtKB:Q6PAM1|ens),TXLNA,BP,1,1 of 39,0.81,2.56,0.142,0.174
+GO:0006357,regulation of transcription by RNA polymerase II,A4Z945(Evidence code:IEA/Database source:GO:0000981)E1BN90(Evidence code:IEA/Database source:GO:0000981)E1BDZ8(Evidence code:IEA/Database source:InterPro:IPR024943), ZBED8 ZKSCAN2 EPC2,BP,3,3 of 336,2.44,0.89,0.1425,0.1741
+GO:0007155,cell adhesion,A0A0M3T9B6(Evidence code:IEA/Database source:InterPro:IPR002038|I)P55906(Evidence code:IEA/Database source:InterPro:IPR032954), OPN TGFBI,BP,2,2 of 171,1.63,1.17,0.1426,0.1741
+GO:0051028,mRNA transport,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0509),ALYREF,BP,1,1 of 40,0.81,2.5,0.1453,0.1771
+GO:0061630,ubiquitin protein ligase activity,A4IFN7(Evidence code:IEA/Database source:InterPro:IPR017134),UBE3A,MF,1,1 of 41,0.81,2.44,0.1485,0.1805
+GO:0060326,cell chemotaxis,Q2KIE5(Evidence code:IEA/Database source:GO:0008009),CXCL2,BP,1,1 of 41,0.81,2.44,0.1485,0.1805
+GO:0045892,"negative regulation of transcription, DNA-templated",E1BMT1(Evidence code:IEA/Database source:UniProtKB:O95343|ens)Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848), SIX3 ADIPOQ,BP,2,2 of 178,1.63,1.12,0.1518,0.1841
+GO:0055085,transmembrane transport,G5E626(Evidence code:IEA/Database source:InterPro:IPR005292|I)F1MIP7(Evidence code:IEA/Database source:InterPro:IPR005292|I), ABCC6 ABCC2,BP,2,2 of 183,1.63,1.09,0.1584,0.1919
+GO:0022625,cytosolic large ribosomal subunit,Q56JZ1(Evidence code:IBA/Database source:PANTHER:PTN000197497),RPL13,CC,1,1 of 45,0.81,2.22,0.1614,0.1952
+GO:0009055,electron transfer activity,Q3SZT9(Evidence code:IEA/Database source:InterPro:IPR002327|I),CYCT,MF,1,1 of 46,0.81,2.17,0.1647,0.1987
+GO:0008289,lipid binding,A4FUZ9(Evidence code:IEA/Database source:InterPro:IPR000074)Q8SPF8(Evidence code:IEA/Database source:InterPro:IPR001124|I), APOA5 BPIFB1,MF,2,2 of 190,1.63,1.05,0.1678,0.2012
+GO:0010506,regulation of autophagy,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,BP,1,1 of 47,0.81,2.13,0.1678,0.2012
+GO:0043087,regulation of GTPase activity,Q3T086(Evidence code:IEA/Database source:InterPro:IPR037992),TRAPPC6A,BP,1,1 of 47,0.81,2.13,0.1678,0.2012
+GO:0050821,protein stabilization,A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens),STX12,BP,1,1 of 47,0.81,2.13,0.1678,0.2012
+GO:0043231,intracellular membrane-bounded organelle,Q3T186(Evidence code:IBA/Database source:PANTHER:PTN000232509)F1MXF5(Evidence code:IEA/Database source:UniProtKB:Q99996|ens)A6QNQ6(Evidence code:IEA/Database source:UniProtKB:A0A024RC34), RPIA AKAP9 RBBP8,CC,3,3 of 1927,2.44,0.16,0.1692,0.2025
+GO:0008654,phospholipid biosynthetic process,Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0594),SERAC1,BP,1,1 of 48,0.81,2.08,0.171,0.204
+GO:0030336,negative regulation of cell migration,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 48,0.81,2.08,0.171,0.204
+GO:0035091,phosphatidylinositol binding,F1MS60(Evidence code:IEA/Database source:InterPro:IPR036871),ARHGAP33,MF,1,1 of 49,0.81,2.04,0.1742,0.2075
+GO:0006887,exocytosis,E1B9K5(Evidence code:IEA/Database source:InterPro:IPR010326),EXOC3L4,BP,1,1 of 50,0.81,2,0.1773,0.2099
+GO:0001666,response to hypoxia,P02192(Evidence code:IEA/Database source:UniProtKB:P04247|ens),MB,BP,1,1 of 50,0.81,2,0.1773,0.2099
+GO:0043025,neuronal cell body,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,CC,1,1 of 50,0.81,2,0.1773,0.2099
+GO:0051015,actin filament binding,Q9TS87(Evidence code:IEA/Database source:InterPro:IPR029976),TAGLN,MF,1,1 of 50,0.81,2,0.1773,0.2099
+GO:0043123,positive regulation of I-kappaB kinase/NF-kappaB signaling,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 51,0.81,1.96,0.1805,0.2129
+GO:0006869,lipid transport,A4FUZ9(Evidence code:IEA/Database source:InterPro:IPR000074),APOA5,BP,1,1 of 51,0.81,1.96,0.1805,0.2129
+GO:1901987,regulation of cell cycle phase transition,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,BP,1,1 of 52,0.81,1.92,0.1836,0.2162
+GO:0005509,calcium ion binding,Q05JF3(Evidence code:IEA/Database source:InterPro:IPR001393|I)E1BCN3(Evidence code:IEA/Database source:InterPro:IPR013530|I), casq1 PADI4,MF,2,2 of 203,1.63,0.99,0.1855,0.2181
+GO:0008234,cysteine-type peptidase activity,A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0788),USP10,MF,1,1 of 53,0.81,1.89,0.1867,0.2188
+GO:0008514,organic anion transmembrane transporter activity,F1MIP7(Evidence code:IEA/Database source:InterPro:IPR030247),ABCC2,MF,1,1 of 53,0.81,1.89,0.1867,0.2188
+GO:0032496,response to lipopolysaccharide,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849),TNFRSF11B,BP,1,1 of 54,0.81,1.85,0.1898,0.2221
+GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",Q08DD0(Evidence code:IEA/Database source:InterPro:IPR001128|I),CYP46A1,MF,1,1 of 55,0.81,1.82,0.1929,0.225
+GO:0006139,nucleobase-containing compound metabolic process,A4IFD0(Evidence code:IEA/Database source:InterPro:IPR000850),Ak5,BP,1,1 of 1068,0.81,0.09,0.1932,0.225
+GO:0005769,early endosome,A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694),USP10,CC,1,1 of 55,0.81,1.82,0.1929,0.225
+GO:0005887,integral component of plasma membrane,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849)F1MIP7(Evidence code:IEA/Database source:InterPro:IPR030247), TNFRSF11B ABCC2,CC,2,2 of 209,1.63,0.96,0.1937,0.2252
+GO:0015031,protein transport,Q2TBU3(Evidence code:IEA/Database source:UniProtKB-KW:KW-0653)Q5E9A1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0653)F1MS60(Evidence code:IEA/Database source:InterPro:IPR035510), GOSR1 NACA ARHGAP33,BP,3,3 of 394,2.44,0.76,0.1961,0.2273
+GO:0007018,microtubule-based movement,Q3MHK0(Evidence code:IEA/Database source:InterPro:IPR001752|I),KIF3A,BP,1,1 of 56,0.81,1.79,0.196,0.2273
+GO:0005506,iron ion binding,Q08DD0(Evidence code:IEA/Database source:InterPro:IPR001128|I),CYP46A1,MF,1,1 of 57,0.81,1.75,0.1991,0.2303
+GO:0032259,methylation,Q5E9U4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0489),TYW3,BP,1,1 of 58,0.81,1.72,0.2021,0.2335
+GO:0032870,cellular response to hormone stimulus,F1MIP7(Evidence code:IBA/Database source:PANTHER:PTN002384111),ABCC2,BP,1,1 of 59,0.81,1.69,0.2052,0.2359
+GO:0051091,positive regulation of DNA-binding transcription factor activity,G3X823(Evidence code:IEA/Database source:UniProtKB:Q12899|ens),TRIM26,BP,1,1 of 59,0.81,1.69,0.2052,0.2359
+GO:0005516,calmodulin binding,P29473(Evidence code:IEA/Database source:InterPro:IPR012144),NOS3,MF,1,1 of 59,0.81,1.69,0.2052,0.2359
+GO:0016324,apical plasma membrane,F1MIP7(Evidence code:IEA/Database source:UniProtKB:Q8VI47|ens),ABCC2,CC,1,1 of 60,0.81,1.67,0.2082,0.2383
+GO:0008083,growth factor activity,Q9XSK7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0339),HDGF,MF,1,1 of 60,0.81,1.67,0.2082,0.2383
+GO:0045202,synapse,Q3ZC66(Evidence code:IEA/Database source:UniProtKB-KW:KW-0770),CRIPT,CC,1,1 of 60,0.81,1.67,0.2082,0.2383
+GO:0046034,ATP metabolic process,A4IFD0(Evidence code:IEA/Database source:InterPro:IPR006267),Ak5,BP,1,1 of 62,0.81,1.61,0.2142,0.2444
+GO:0051607,defense response to virus,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q9BYX4|ens),IFIH1,BP,1,1 of 62,0.81,1.61,0.2142,0.2444
+GO:0030855,epithelial cell differentiation,Q9TS87(Evidence code:IEA/Database source:UniProtKB:Q01995|ens),TAGLN,BP,1,1 of 63,0.81,1.59,0.2172,0.2474
+GO:0032991,protein-containing complex,F1MS60(Evidence code:IEA/Database source:UniProtKB:O14559|ens)A5PJS6(Evidence code:ISS/Database source:UniProtKB:Q14694)E1BCN3(Evidence code:IEA/Database source:UniProtKB:Q9UM07|ens), ARHGAP33 USP10 PADI4,CC,3,3 of 1693,2.44,0.18,0.2197,0.2497
+GO:0005261,cation channel activity,Q17QV5(Evidence code:IEA/Database source:InterPro:IPR029588),TRPM3,MF,1,1 of 64,0.81,1.56,0.2202,0.2497
+GO:0051276,chromosome organization,F6RF21(Evidence code:IEA/Database source:InterPro:IPR010935|I),SMCHD1,BP,1,1 of 64,0.81,1.56,0.2202,0.2497
+GO:0006913,nucleocytoplasmic transport,P51122(Evidence code:ISS/Database source:UniProtKB:P39687),ANP32A,BP,1,1 of 65,0.81,1.54,0.2232,0.2526
+GO:0006935,chemotaxis,Q2KIE5(Evidence code:IEA/Database source:InterPro:IPR033899),CXCL2,BP,1,1 of 66,0.81,1.52,0.2262,0.2556
+GO:0048193,Golgi vesicle transport,Q3T086(Evidence code:IEA/Database source:InterPro:IPR037992),TRAPPC6A,BP,1,1 of 69,0.81,1.45,0.235,0.2652
+GO:0034976,response to endoplasmic reticulum stress,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 70,0.81,1.43,0.2379,0.2676
+GO:0005667,transcription factor complex,E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens),TFAP2D,CC,1,1 of 70,0.81,1.43,0.2379,0.2676
+GO:0001525,angiogenesis,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 71,0.81,1.41,0.2408,0.2701
+GO:0045121,membrane raft,A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens),STX12,CC,1,1 of 71,0.81,1.41,0.2408,0.2701
+GO:0030246,carbohydrate binding,A8E4Q7(Evidence code:IEA/Database source:UniProtKB-KW:KW-0430),CLEC12A,MF,1,1 of 73,0.81,1.37,0.2466,0.2761
+GO:0015711,organic anion transport,F1MIP7(Evidence code:IEA/Database source:GO:0008514),ABCC2,BP,1,1 of 74,0.81,1.35,0.2495,0.2785
+GO:0001558,regulation of cell growth,Q05718(Evidence code:IEA/Database source:InterPro:IPR000867),IGFBP6,BP,1,1 of 74,0.81,1.35,0.2495,0.2785
+GO:0008168,methyltransferase activity,Q5E9U4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0489),TYW3,MF,1,1 of 75,0.81,1.33,0.2523,0.2808
+GO:0016853,isomerase activity,Q3T186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0413),RPIA,MF,1,1 of 75,0.81,1.33,0.2523,0.2808
+GO:0005681,spliceosomal complex,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0747),ALYREF,CC,1,1 of 76,0.81,1.32,0.2552,0.2836
+GO:0045893,"positive regulation of transcription, DNA-templated",Q1RMH9(Evidence code:ISS/Database source:UniProtKB:Q99543)E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens), DNAJC2 TFAP2D,BP,2,2 of 255,1.63,0.78,0.2578,0.2859
+GO:0000977,RNA polymerase II regulatory region sequence-specific DNA binding,E1BNP7(Evidence code:IEA/Database source:UniProtKB:Q91ZK0|ens),TFAP2D,MF,1,1 of 77,0.81,1.3,0.258,0.2859
+GO:0007276,gamete generation,F1N1D2(Evidence code:IEA/Database source:UniProtKB:Q61880|ens),DMC1,BP,1,1 of 79,0.81,1.27,0.2637,0.2917
+GO:0009615,response to virus,E1BJZ0(Evidence code:IEA/Database source:UniProtKB:Q8R5F7|ens),IFIH1,BP,1,1 of 80,0.81,1.25,0.2665,0.2943
+GO:0004842,ubiquitin-protein transferase activity,A4IFN7(Evidence code:IEA/Database source:InterPro:IPR000569|I),UBE3A,MF,1,1 of 81,0.81,1.23,0.2693,0.297
+GO:0006979,response to oxidative stress,F1MCG9(Evidence code:IEA/Database source:UniProtKB:Q5KSL6|ens),DGKK,BP,1,1 of 86,0.81,1.16,0.2831,0.3113
+GO:0019221,cytokine-mediated signaling pathway,O77482(Evidence code:IBA/Database source:PANTHER:PTN000008570),IL1RN,BP,1,1 of 86,0.81,1.16,0.2831,0.3113
+GO:0004674,protein serine/threonine kinase activity,A0JN97(Evidence code:IEA/Database source:InterPro:IPR000961|I),PRKCD,MF,1,1 of 90,0.81,1.11,0.294,0.3227
+GO:0009617,response to bacterium,Q3Y5Z3(Evidence code:IEA/Database source:UniProtKB:Q60994|ens),ADIPOQ,BP,1,1 of 92,0.81,1.09,0.2993,0.3281
+GO:0005543,phospholipid binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 94,0.81,1.06,0.3047,0.3335
+GO:0008134,transcription factor binding,Q3SZL4(Evidence code:ISS/Database source:UniProtKB:O60934),NBN,MF,1,1 of 98,0.81,1.02,0.3152,0.3445
+GO:0006413,translational initiation,Q2YDE1(Evidence code:IEA/Database source:UniProtKB-KW:KW-0396),EIF4G3,BP,1,1 of 101,0.81,0.99,0.323,0.3525
+GO:0046982,protein heterodimerization activity,Q2M2T1(Evidence code:IEA/Database source:InterPro:IPR009072),HIST1H2BK,MF,1,1 of 103,0.81,0.97,0.3282,0.3576
+GO:0022857,transmembrane transporter activity,F1MIP7(Evidence code:IEA/Database source:InterPro:IPR005292)G5E626(Evidence code:IEA/Database source:InterPro:IPR005292), ABCC2 ABCC6,MF,2,2 of 311,1.63,0.64,0.336,0.365
+GO:0008380,RNA splicing,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0508),ALYREF,BP,1,1 of 106,0.81,0.94,0.3358,0.365
+GO:0030054,cell junction,Q3ZC66(Evidence code:IEA/Database source:UniProtKB-KW:KW-0965)A6QQV9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0965), CRIPT AFAP1L1,CC,2,2 of 315,1.63,0.63,0.3415,0.3704
+GO:0098655,cation transmembrane transport,Q17QV5(Evidence code:IEA/Database source:GO:0005261),TRPM3,BP,1,1 of 109,0.81,0.92,0.3434,0.3719
+GO:0003924,GTPase activity,A6QQK5(Evidence code:IEA/Database source:InterPro:IPR005129),MMAA,MF,1,1 of 111,0.81,0.9,0.3484,0.3762
+GO:0005759,mitochondrial matrix,Q05JF3(Evidence code:IEA/Database source:UniProtKB:O09165|ens),casq1,CC,1,1 of 111,0.81,0.9,0.3484,0.3762
+GO:0008047,enzyme activator activity,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens),APOA5,MF,1,1 of 113,0.81,0.88,0.3533,0.381
+GO:0006629,lipid metabolic process,O77482(Evidence code:IEA/Database source:UniProtKB:P25085|ens)Q2TBM9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0443), IL1RN SERAC1,BP,2,2 of 325,1.63,0.62,0.3552,0.3824
+GO:0005874,microtubule,Q3MHK0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0493),KIF3A,CC,1,1 of 114,0.81,0.88,0.3558,0.3826
+GO:0006091,generation of precursor metabolites and energy,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 120,0.81,0.83,0.3704,0.3976
+GO:0043065,positive regulation of apoptotic process,A4IF78(Evidence code:IEA/Database source:UniProtKB:O95379|ens),TNFAIP8,BP,1,1 of 121,0.81,0.83,0.3728,0.3996
+GO:0006397,mRNA processing,Q3T0I4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0507),ALYREF,BP,1,1 of 123,0.81,0.81,0.3775,0.4036
+GO:0003690,double-stranded DNA binding,F1N1D2(Evidence code:IBA/Database source:PANTHER:PTN001415033),DMC1,MF,1,1 of 123,0.81,0.81,0.3775,0.4036
+GO:0008283,cell proliferation,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,BP,1,1 of 124,0.81,0.81,0.3799,0.4055
+GO:0051301,cell division,A6QNQ6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0132),RBBP8,BP,1,1 of 126,0.81,0.79,0.3846,0.4099
+GO:0006412,translation,Q56JZ1(Evidence code:IEA/Database source:InterPro:IPR001380|I),RPL13,BP,1,1 of 130,0.81,0.77,0.3939,0.4193
+GO:0016491,oxidoreductase activity,P29473(Evidence code:IEA/Database source:InterPro:IPR001433|I)Q08DD0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0560), NOS3 CYP46A1,MF,2,2 of 361,1.63,0.55,0.4035,0.4281
+GO:0033365,protein localization to organelle,E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens),CNTLN,BP,1,1 of 134,0.81,0.75,0.4031,0.4281
+GO:0016567,protein ubiquitination,A4IFN7(Evidence code:IEA/Database source:UniProtKB:O08759|ens),UBE3A,BP,1,1 of 137,0.81,0.73,0.4099,0.4343
+GO:0003735,structural constituent of ribosome,Q56JZ1(Evidence code:IEA/Database source:InterPro:IPR001380|I),RPL13,MF,1,1 of 138,0.81,0.72,0.4122,0.4361
+GO:0034220,ion transmembrane transport,Q17QV5(Evidence code:IEA/Database source:InterPro:IPR029588),TRPM3,BP,1,1 of 139,0.81,0.72,0.4144,0.4378
+GO:0016477,cell migration,F1MIX6(Evidence code:IEA/Database source:InterPro:IPR030717),DOCK1,BP,1,1 of 143,0.81,0.7,0.4233,0.4465
+GO:0007275,multicellular organism development,A5D7R1(Evidence code:IBA/Database source:PANTHER:PTN000753849),TNFRSF11B,BP,1,1 of 145,0.81,0.69,0.4276,0.4499
+GO:0019904,protein domain specific binding,E1BMK9(Evidence code:IEA/Database source:UniProtKB:Q9NXG0|ens),CNTLN,MF,1,1 of 145,0.81,0.69,0.4276,0.4499
+GO:0005815,microtubule organizing center,A4IFD0(Evidence code:IEA/Database source:UniProtKB:Q9Y6K8|ens),Ak5,CC,1,1 of 164,0.81,0.61,0.4676,0.4905
+GO:0030030,cell projection organization,F1MRZ8(Evidence code:IEA/Database source:UniProtKB:P08567|ens),PLEK,BP,1,1 of 164,0.81,0.61,0.4676,0.4905
+GO:0005525,GTP binding,A6QQK5(Evidence code:IEA/Database source:InterPro:IPR005129),MMAA,MF,1,1 of 165,0.81,0.61,0.4697,0.4912
+GO:0005768,endosome,A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0967),USP10,CC,1,1 of 165,0.81,0.61,0.4697,0.4912
+GO:0016604,nuclear body,F1MXK2(Evidence code:IEA/Database source:UniProtKB:Q7Z417|ens),NUFIP2,CC,1,1 of 171,0.81,0.58,0.4817,0.503
+GO:0043565,sequence-specific DNA binding,E1BMT1(Evidence code:IEA/Database source:UniProtKB:Q62233|ens),SIX3,MF,1,1 of 173,0.81,0.58,0.4856,0.5064
+GO:0007010,cytoskeleton organization,F1MIX6(Evidence code:IEA/Database source:InterPro:IPR030717),DOCK1,BP,1,1 of 174,0.81,0.57,0.4875,0.5077
+GO:0004888,transmembrane signaling receptor activity,A2VDS6(Evidence code:IEA/Database source:InterPro:IPR017981),VIPR1,MF,1,1 of 178,0.81,0.56,0.4953,0.5151
+GO:1903507,negative regulation of nucleic acid-templated transcription,A6QNQ6(Evidence code:IEA/Database source:GO:0003714),RBBP8,BP,1,1 of 180,0.81,0.56,0.4991,0.5183
+GO:0006886,intracellular protein transport,A7MAZ2(Evidence code:IEA/Database source:InterPro:IPR006012),STX12,BP,1,1 of 196,0.81,0.51,0.5287,0.5483
+GO:0001934,positive regulation of protein phosphorylation,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 205,0.81,0.49,0.5446,0.5631
+GO:0008233,peptidase activity,A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0645),USP10,MF,1,1 of 205,0.81,0.49,0.5446,0.5631
+GO:0032880,regulation of protein localization,E1BLN1(Evidence code:IEA/Database source:UniProtKB:Q62209|ens),SYCP1,BP,1,1 of 211,0.81,0.47,0.5549,0.573
+GO:0006259,DNA metabolic process,F1N1D2(Evidence code:IEA/Database source:InterPro:IPR020587),DMC1,BP,1,1 of 217,0.81,0.46,0.5649,0.5825
+GO:0006508,proteolysis,A5PJS6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0645),USP10,BP,1,1 of 230,0.81,0.43,0.5859,0.6033
+GO:0005730,nucleolus,Q3ZC66(Evidence code:IEA/Database source:UniProtKB:Q9P021|ens),CRIPT,CC,1,1 of 232,0.81,0.43,0.5891,0.6057
+GO:0031982,vesicle,O77482(Evidence code:IEA/Database source:UniProtKB:P25085|ens)A7MAZ2(Evidence code:IEA/Database source:UniProtKB:Q86Y82|ens), IL1RN STX12,CC,2,2 of 1000,1.63,0.2,0.5936,0.6095
+GO:0008092,cytoskeletal protein binding,E1BF59(Evidence code:IEA/Database source:InterPro:IPR030269),PLEC,MF,1,1 of 238,0.81,0.42,0.5983,0.6135
+GO:0044877,protein-containing complex binding,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,MF,1,1 of 243,0.81,0.41,0.6059,0.6204
+GO:0005789,endoplasmic reticulum membrane,Q58DR2(Evidence code:IEA/Database source:UniProtKB-SubCell:SL),DNAJB12,CC,1,1 of 244,0.81,0.41,0.6074,0.621
+GO:1903508,positive regulation of nucleic acid-templated transcription,Q5E9A1(Evidence code:IEA/Database source:GO:0003713),NACA,BP,1,1 of 255,0.81,0.39,0.6235,0.6366
+GO:0019899,enzyme binding,A4FUZ9(Evidence code:IEA/Database source:UniProtKB:Q6Q788|ens)A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens), APOA5 EIF2AK3,MF,2,2 of 405,1.63,0.49,0.6697,0.6828
+GO:0048856,anatomical structure development,E1BNP7(Evidence code:IBA/Database source:PANTHER:PTN000087637),TFAP2D,BP,1,1 of 617,0.81,0.16,0.733,0.7463
+GO:0050896,response to stimulus,F1MUU8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0716)F1ME33(Evidence code:IEA/Database source:UniProtKB-KW:KW-0716)E1B7L5(Evidence code:IEA/Database source:UniProtKB-KW:KW-0716), OR8D4 LOC788438 OR6C75,BP,3,3 of 1151,2.44,0.26,0.8037,0.8172
+GO:0005102,signaling receptor binding,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,MF,1,1 of 385,0.81,0.26,1,1
+GO:0009967,positive regulation of signal transduction,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q60994),ADIPOQ,BP,1,1 of 308,0.81,0.32,1,1
+GO:0010628,positive regulation of gene expression,A5D791(Evidence code:IEA/Database source:UniProtKB:Q9NZJ5|ens),EIF2AK3,BP,1,1 of 331,0.81,0.3,1,1
+GO:0006952,defense response,Q2KIE5(Evidence code:IEA/Database source:InterPro:IPR033899),CXCL2,BP,1,1 of 300,0.81,0.33,1,1
+GO:0034622,cellular protein-containing complex assembly,Q58DR2(Evidence code:ISS/Database source:UniProtKB:Q9NXW2),DNAJB12,BP,1,1 of 262,0.81,0.38,1,1
+GO:0008104,protein localization,Q08DY1(Evidence code:IEA/Database source:UniProtKB:Q9NQY0|ens),BIN3,BP,1,1 of 497,0.81,0.2,1,1
+GO:0006796,phosphate-containing compound metabolic process,F1MNS5(Evidence code:IEA/Database source:UniProtKB:P22413|ens),ENPP1,BP,1,1 of 417,0.81,0.24,1,1
+GO:0002376,immune system process,Q8SPF8(Evidence code:IEA/Database source:UniProtKB-KW:KW-0391),BPIFB1,BP,1,1 of 334,0.81,0.3,1,1
+GO:0031410,cytoplasmic vesicle,E1BLB8(Evidence code:IEA/Database source:UniProtKB:Q8C7U1|ens),N4BP3,CC,1,1 of 379,0.81,0.26,1,1
+GO:0045184,establishment of protein localization,Q3ZC66(Evidence code:ISS/Database source:UniProtKB:Q792Q4),CRIPT,BP,1,1 of 416,0.81,0.24,1,1
+GO:0032270,positive regulation of cellular protein metabolic process,Q3Y5Z3(Evidence code:ISS/Database source:UniProtKB:Q15848),ADIPOQ,BP,1,1 of 322,0.81,0.31,1,1
+GO:0007166,cell surface receptor signaling pathway,A2VDS6(Evidence code:IEA/Database source:InterPro:IPR017981),VIPR1,BP,1,1 of 344,0.81,0.29,1,1
