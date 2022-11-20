@@ -1,0 +1,58 @@
+GO,Function,Proteins,Gene Name,Ontology group,Count of protein,Number of proteins detected within the genome,GO frequency within the dataset (%),GO frequency within the genome (%),P-Value,P-Values_BH
+GO:0016020,membrane,A0JND8(Evidence code:IEA/Database source:InterPro:IPR009147)Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)O78186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)B8Y6C2(Evidence code:IEA/Database source:InterPro:IPR000109)Q9TTR6(Evidence code:IEA/Database source:InterPro:IPR001734)Q1JPA0(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472)Q3ZBG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0472), ABCC4 GPAM Man8 SLC15A2 sglt1 ALDH3B1 PLSCR2,CC,7,7 of 1837,70,0.38,0.00001593,0.0005529
+GO:0016021,integral component of membrane,A0JND8(Evidence code:IEA/Database source:InterPro:IPR011527|I)B8Y6C2(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)O78186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q9TTR6(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812)Q3ZBG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0812), ABCC4 SLC15A2 GPAM Man8 sglt1 PLSCR2,CC,6,6 of 1299,60,0.46,0.0000194,0.0005529
+GO:0055085,transmembrane transport,Q9TTR6(Evidence code:IEA/Database source:InterPro:IPR001734)B8Y6C2(Evidence code:IEA/Database source:InterPro:IPR000109)A0JND8(Evidence code:IEA/Database source:InterPro:IPR011527), sglt1 SLC15A2 ABCC4,BP,3,3 of 183,30,1.64,0.00005062,0.0009617
+GO:0004052,arachidonate 12-lipoxygenase activity,Q6SYC4(Evidence code:ISS/Database source:UniProtKB:Q02759),ALOX12,MF,1,1 of 1,10,100,0.0006809,0.007276
+GO:0017128,phospholipid scramblase activity,Q3ZBG9(Evidence code:IBA/Database source:PANTHER:PTN000582979),PLSCR2,MF,1,1 of 2,10,50,0.001021,0.007276
+GO:0004030,aldehyde dehydrogenase [NAD(P)+] activity,Q1JPA0(Evidence code:IEA/Database source:EC:1.2.1.5),ALDH3B1,MF,1,1 of 2,10,50,0.001021,0.007276
+GO:0017121,phospholipid scrambling,Q3ZBG9(Evidence code:IEA/Database source:GO:0017128),PLSCR2,BP,1,1 of 1,10,100,0.0006809,0.007276
+GO:0004366,glycerol-3-phosphate O-acyltransferase activity,Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR028354),GPAM,MF,1,1 of 2,10,50,0.001021,0.007276
+GO:0005886,plasma membrane,Q1JPA0(Evidence code:IEA/Database source:UniProtKB-KW:KW-1003)Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR028354)Q3ZBG9(Evidence code:IBA/Database source:PANTHER:PTN000583005), ALDH3B1 GPAM PLSCR2,CC,3,3 of 630,30,0.48,0.00175,0.007673
+GO:0055114,oxidation-reduction process,Q6SYC4(Evidence code:IEA/Database source:InterPro:IPR000907|I)Q1JPA0(Evidence code:IEA/Database source:InterPro:IPR012394|I), ALOX12 ALDH3B1,BP,2,2 of 162,20,1.23,0.001619,0.007673
+GO:0006068,ethanol catabolic process,Q1JPA0(Evidence code:IEA/Database source:UniPathway:UPA00780),ALDH3B1,BP,1,1 of 4,10,25,0.001701,0.007673
+GO:0042612,MHC class I protein complex,O78186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0490),Man8,CC,1,1 of 4,10,25,0.001701,0.007673
+GO:0050918,positive chemotaxis,P35541(Evidence code:IEA/Database source:GO:0042056),SAA1,BP,1,1 of 4,10,25,0.001701,0.007673
+GO:0016024,CDP-diacylglycerol biosynthetic process,Q5GJ77(Evidence code:IEA/Database source:UniPathway:UPA00557),GPAM,BP,1,1 of 6,10,16.67,0.002381,0.009694
+GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,O78186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0490),Man8,BP,1,1 of 7,10,14.29,0.00272,0.01034
+GO:1902476,chloride transmembrane transport,A0JND8(Evidence code:IEA/Database source:GO:0005254),ABCC4,BP,1,1 of 10,10,10,0.003739,0.01066
+GO:0016702,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",Q6SYC4(Evidence code:IEA/Database source:InterPro:IPR000907|I),ALOX12,MF,1,1 of 10,10,10,0.003739,0.01066
+GO:0042056,chemoattractant activity,P35541(Evidence code:IBA/Database source:PANTHER:PTN000603423),SAA1,MF,1,1 of 10,10,10,0.003739,0.01066
+GO:0004029,aldehyde dehydrogenase (NAD) activity,Q1JPA0(Evidence code:IEA/Database source:UniProtKB:Q80VQ0|ens),ALDH3B1,MF,1,1 of 9,10,11.11,0.003399,0.01066
+GO:0046185,aldehyde catabolic process,Q1JPA0(Evidence code:IEA/Database source:UniProtKB:P43353|ens),ALDH3B1,BP,1,1 of 9,10,11.11,0.003399,0.01066
+GO:0050840,extracellular matrix binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 12,10,8.33,0.004417,0.01199
+GO:0022857,transmembrane transporter activity,Q9TTR6(Evidence code:IEA/Database source:InterPro:IPR001734)B8Y6C2(Evidence code:IEA/Database source:InterPro:IPR000109), sglt1 SLC15A2,MF,2,2 of 311,20,0.64,0.005686,0.01218
+GO:0005576,extracellular region,P55906(Evidence code:IEA/Database source:UniProtKB-KW:KW-0964)P35541(Evidence code:IEA/Database source:InterPro:IPR000096), TGFBI SAA1,CC,2,2 of 300,20,0.67,0.005308,0.01218
+GO:0034364,high-density lipoprotein particle,P35541(Evidence code:IEA/Database source:UniProtKB-KW:KW-0345),SAA1,CC,1,1 of 13,10,7.69,0.004756,0.01218
+GO:0008374,O-acyltransferase activity,Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR022284),GPAM,MF,1,1 of 14,10,7.14,0.005094,0.01218
+GO:0005518,collagen binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 15,10,6.67,0.005433,0.01218
+GO:0006953,acute-phase response,P35541(Evidence code:IEA/Database source:UniProtKB-KW:KW-0011),SAA1,BP,1,1 of 16,10,6.25,0.005771,0.01218
+GO:0005178,integrin binding,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,MF,1,1 of 17,10,5.88,0.00611,0.01244
+GO:0019882,antigen processing and presentation,O78186(Evidence code:IEA/Database source:InterPro:IPR010579),Man8,BP,1,1 of 19,10,5.26,0.006786,0.01289
+GO:0016620,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",Q1JPA0(Evidence code:IEA/Database source:InterPro:IPR016163),ALDH3B1,MF,1,1 of 19,10,5.26,0.006786,0.01289
+GO:0016491,oxidoreductase activity,Q6SYC4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0560)Q1JPA0(Evidence code:IEA/Database source:InterPro:IPR015590|I), ALOX12 ALDH3B1,MF,2,2 of 361,20,0.55,0.00755,0.01345
+GO:0006081,cellular aldehyde metabolic process,Q1JPA0(Evidence code:IEA/Database source:InterPro:IPR012394),ALDH3B1,BP,1,1 of 21,10,4.76,0.007462,0.01345
+GO:0005254,chloride channel activity,A0JND8(Evidence code:IEA/Database source:InterPro:IPR009147),ABCC4,MF,1,1 of 28,10,3.57,0.009823,0.01697
+GO:0051213,dioxygenase activity,Q6SYC4(Evidence code:IEA/Database source:UniProtKB-KW:KW-0223),ALOX12,MF,1,1 of 30,10,3.33,0.0105,0.0176
+GO:0042626,"ATPase activity, coupled to transmembrane movement of substances",A0JND8(Evidence code:IEA/Database source:InterPro:IPR011527),ABCC4,MF,1,1 of 35,10,2.86,0.01218,0.01983
+GO:0034599,cellular response to oxidative stress,Q1JPA0(Evidence code:IEA/Database source:UniProtKB:P43353|ens),ALDH3B1,BP,1,1 of 39,10,2.56,0.01352,0.02141
+GO:0060326,cell chemotaxis,P35541(Evidence code:IBA/Database source:PANTHER:PTN000603423),SAA1,BP,1,1 of 41,10,2.44,0.01419,0.02186
+GO:0008654,phospholipid biosynthetic process,Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR028354),GPAM,BP,1,1 of 48,10,2.08,0.01654,0.02481
+GO:0005741,mitochondrial outer membrane,Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-1000),GPAM,CC,1,1 of 50,10,2,0.01721,0.02515
+GO:0005506,iron ion binding,Q6SYC4(Evidence code:IEA/Database source:InterPro:IPR001885),ALOX12,MF,1,1 of 57,10,1.75,0.01954,0.02785
+GO:0016746,"transferase activity, transferring acyl groups",Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR002123),GPAM,MF,1,1 of 85,10,1.18,0.02883,0.04008
+GO:0016887,ATPase activity,A0JND8(Evidence code:IEA/Database source:InterPro:IPR003439),ABCC4,MF,1,1 of 110,10,0.91,0.03704,0.05026
+GO:0008283,cell proliferation,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,BP,1,1 of 124,10,0.81,0.0416,0.05514
+GO:0007155,cell adhesion,P55906(Evidence code:IEA/Database source:InterPro:IPR032954),TGFBI,BP,1,1 of 171,10,0.58,0.05675,0.07351
+GO:0046872,metal ion binding,Q3ZBG9(Evidence code:IEA/Database source:UniProtKB-KW:KW-0479)Q6SYC4(Evidence code:IEA/Database source:InterPro:IPR000907|I), PLSCR2 ALOX12,MF,2,2 of 1125,20,0.18,0.05991,0.07588
+GO:0006955,immune response,O78186(Evidence code:IEA/Database source:InterPro:IPR010579),Man8,BP,1,1 of 214,10,0.47,0.07038,0.08721
+GO:0044255,cellular lipid metabolic process,Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR022284),GPAM,BP,1,1 of 247,10,0.4,0.0807,0.09787
+GO:0006811,ion transport,A0JND8(Evidence code:IEA/Database source:InterPro:IPR009147),ABCC4,BP,1,1 of 278,10,0.36,0.09027,0.1072
+GO:0006629,lipid metabolic process,Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-0443),GPAM,BP,1,1 of 325,10,0.31,0.1046,0.1217
+GO:0002376,immune system process,O78186(Evidence code:IEA/Database source:UniProtKB-KW:KW-0391),Man8,BP,1,1 of 334,10,0.3,0.1073,0.1223
+GO:0005739,mitochondrion,Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-0496),GPAM,CC,1,1 of 380,10,0.26,0.121,0.1353
+GO:0005524,ATP binding,A0JND8(Evidence code:IEA/Database source:InterPro:IPR003439|I),ABCC4,MF,1,1 of 403,10,0.25,0.1278,0.1401
+GO:0005615,extracellular space,P35541(Evidence code:IBA/Database source:PANTHER:PTN001159395),SAA1,CC,1,1 of 426,10,0.23,0.1345,0.1447
+GO:0016740,transferase activity,Q5GJ77(Evidence code:IEA/Database source:UniProtKB-KW:KW-0808),GPAM,MF,1,1 of 633,10,0.16,0.1925,0.2032
+GO:0008152,metabolic process,Q5GJ77(Evidence code:IEA/Database source:InterPro:IPR002123)Q1JPA0(Evidence code:IEA/Database source:InterPro:IPR015590|I), GPAM ALDH3B1,BP,2,2 of 2613,20,0.08,0.2253,0.2324
+GO:0005829,cytosol,Q1JPA0(Evidence code:IEA/Database source:UniProtKB:Q80VQ0|ens),ALDH3B1,CC,1,1 of 769,10,0.13,0.2283,0.2324
+GO:0005737,cytoplasm,Q1JPA0(Evidence code:IEA/Database source:UniProtKB:P43353|ens),ALDH3B1,CC,1,1 of 1304,10,0.08,0.3532,0.3532
