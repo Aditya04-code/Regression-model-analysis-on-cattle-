@@ -1,6 +1,6 @@
 <h1>Regression Model analysis on cattles </h1>
 <p>
- - As we have come across various research and articles that mention how the
+As we have come across various research and articles that mention how the
 cattle’s lactation efficiency has gone down due to inefficient nutrients in their
 diet and also how different states are unable to produce milk from their cattles in
 expected amount. This problem is giving rise to supply of chemicals and vaccines
